@@ -1,0 +1,656 @@
+id,status,type,quantity,material_id,user_id,user_email,user_name,user_activation_state,user_role,material_name
+1008,delayed,swatch,1.0,734,311,XXXXXXXct@XXXXXelier.com,XXXXXXXa Ponce de LeÃ³n,active,admin,XXXXXXXXXX4 ORG: Waterproof Organic Cotton 200 gsm
+1611,delivered,swatch,1.0,734,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX4 ORG: Waterproof Organic Cotton 200 gsm
+1871,delivered,swatch,1.0,734,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX4 ORG: Waterproof Organic Cotton 200 gsm
+1875,delivered,swatch,1.0,734,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX4 ORG: Waterproof Organic Cotton 200 gsm
+1874,delivered,swatch,1.0,734,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX4 ORG: Waterproof Organic Cotton 200 gsm
+1873,delivered,swatch,1.0,734,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX4 ORG: Waterproof Organic Cotton 200 gsm
+1872,delivered,swatch,1.0,734,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX4 ORG: Waterproof Organic Cotton 200 gsm
+1870,delivered,swatch,1.0,734,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX4 ORG: Waterproof Organic Cotton 200 gsm
+1869,delivered,swatch,1.0,734,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX4 ORG: Waterproof Organic Cotton 200 gsm
+1744,delayed,swatch,1.0,734,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX4 ORG: Waterproof Organic Cotton 200 gsm
+1742,delayed,swatch,1.0,734,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX4 ORG: Waterproof Organic Cotton 200 gsm
+1608,delivered,swatch,1.0,734,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX4 ORG: Waterproof Organic Cotton 200 gsm
+1749,delayed,swatch,1.0,734,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX4 ORG: Waterproof Organic Cotton 200 gsm
+1752,available,sample,1.0,734,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX4 ORG: Waterproof Organic Cotton 200 gsm
+1751,available,sample,1.0,734,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX4 ORG: Waterproof Organic Cotton 200 gsm
+1761,available,sample,9.0,734,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX4 ORG: Waterproof Organic Cotton 200 gsm
+1010,delayed,swatch,1.0,734,311,XXXXXXXct@XXXXXelier.com,XXXXXXXa Ponce de LeÃ³n,active,admin,XXXXXXXXXX4 ORG: Waterproof Organic Cotton 200 gsm
+1009,delayed,swatch,1.0,734,311,XXXXXXXct@XXXXXelier.com,XXXXXXXa Ponce de LeÃ³n,active,admin,XXXXXXXXXX4 ORG: Waterproof Organic Cotton 200 gsm
+1007,delayed,swatch,1.0,734,311,XXXXXXXct@XXXXXelier.com,XXXXXXXa Ponce de LeÃ³n,active,admin,XXXXXXXXXX4 ORG: Waterproof Organic Cotton 200 gsm
+1000,delayed,swatch,1.0,734,311,XXXXXXXct@XXXXXelier.com,XXXXXXXa Ponce de LeÃ³n,active,admin,XXXXXXXXXX4 ORG: Waterproof Organic Cotton 200 gsm
+1001,delayed,swatch,1.0,734,311,XXXXXXXct@XXXXXelier.com,XXXXXXXa Ponce de LeÃ³n,active,admin,XXXXXXXXXX4 ORG: Waterproof Organic Cotton 200 gsm
+1251,delivered,swatch,2.0,734,360,XXXXXXXgergo97@XXXXX.com,XXXXXXX RÃ¡cz,active,admin,XXXXXXXXXX4 ORG: Waterproof Organic Cotton 200 gsm
+1766,available,sample,10.0,734,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX4 ORG: Waterproof Organic Cotton 200 gsm
+1765,available,sample,10.0,734,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX4 ORG: Waterproof Organic Cotton 200 gsm
+1764,delivered,sample,10.0,734,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX4 ORG: Waterproof Organic Cotton 200 gsm
+302,delivered,swatch,1.0,842,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXib Wool Nylon
+997,available,swatch,1.0,842,311,XXXXXXXct@XXXXXelier.com,XXXXXXXa Ponce de LeÃ³n,active,admin,XXXXXXXXXXib Wool Nylon
+1594,delivered,swatch,1.0,500,114,XXXXXXXra.verlic@XXXXX.com,XXXXXXXa Verlic,active,admin,XXXXXXXXXXo-based Nylon
+353,delivered,swatch,1.0,500,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXo-based Nylon
+1767,initial,sample,2.0,2336,101,XXXXXXXla@XXXXXfectionists.co.uk,XXXXXXXa Kopuz,active,admin,XXXXXXXXXX Sample Box
+1920,delayed,sample,1.0,2336,582,XXXXXXX@XXXXXdipiume.it,XXXXXXX,active,admin,XXXXXXXXXX Sample Box
+1768,available,sample,2.0,2336,323,XXXXXXXia@XXXXXtiles.co.uk,XXXXXXXA,active,admin,XXXXXXXXXX Sample Box
+1826,delivered,sample,1.0,2336,114,XXXXXXXra.verlic@XXXXX.com,XXXXXXXa Verlic,active,admin,XXXXXXXXXX Sample Box
+1923,delayed,sample,1.0,2336,582,XXXXXXX@XXXXXdipiume.it,XXXXXXX,active,admin,XXXXXXXXXX Sample Box
+1770,delivered,sample,1.0,2336,283,XXXXXXXa.osella@XXXXX.com,XXXXXXX Osella,active,admin,XXXXXXXXXX Sample Box
+1772,delivered,sample,1.0,2336,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX Sample Box
+1788,delivered,sample,1.0,2336,101,XXXXXXXla@XXXXXfectionists.co.uk,XXXXXXXa Kopuz,active,admin,XXXXXXXXXX Sample Box
+1916,shipped,sample,1.0,2336,582,XXXXXXX@XXXXXdipiume.it,XXXXXXX,active,admin,XXXXXXXXXX Sample Box
+1763,delivered,sample,1.0,2336,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXX Sample Box
+1917,available,swatch,1.0,2336,582,XXXXXXX@XXXXXdipiume.it,XXXXXXX,active,admin,XXXXXXXXXX Sample Box
+1596,delivered,swatch,1.0,499,114,XXXXXXXra.verlic@XXXXX.com,XXXXXXXa Verlic,active,admin,XXXXXXXXXXbased Nylon
+354,delivered,swatch,1.0,499,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXbased Nylon
+1595,delivered,swatch,1.0,501,114,XXXXXXXra.verlic@XXXXX.com,XXXXXXXa Verlic,active,admin,XXXXXXXXXXBio-based Nylon
+1820,available,sample,4.0,501,114,XXXXXXXra.verlic@XXXXX.com,XXXXXXXa Verlic,active,admin,XXXXXXXXXXBio-based Nylon
+1724,initial,sample,0.0,501,341,XXXXXXXlin@XXXXXr.com,XXXXXXXin Rutz,active,product_user,XXXXXXXXXXBio-based Nylon
+311,available,swatch,1.0,501,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXBio-based Nylon
+355,delivered,swatch,1.0,501,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXBio-based Nylon
+1528,delivered,swatch,1.0,501,412,XXXXXXXniaten@XXXXXom,XXXXXXXia hodge,active,admin,XXXXXXXXXXBio-based Nylon
+1810,delivered,swatch,1.0,1548,533,XXXXXXXXXXXXleonardsson.com,XXXXXXXLeonardsson,active,admin,XXXXXXXXXXEco Stretch Polyester 6
+1808,delivered,swatch,1.0,1140,533,XXXXXXXXXXXXleonardsson.com,XXXXXXXLeonardsson,active,admin,XXXXXXXXXXRecycled Cotton Recycled Polyester
+1876,delivered,swatch,1.0,2531,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX Canvas Lyocell/Linen 290 gsm
+1884,initial,sample,8.0,2531,434,XXXXXXX@XXXXXhestudio.com,XXXXXXXlla Wood,active,admin,XXXXXXXXXX Canvas Lyocell/Linen 290 gsm
+1935,shipped,swatch,1.0,2531,574,XXXXXXXXXXXXg.com,XXXXXXX,active,admin,XXXXXXXXXX Canvas Lyocell/Linen 290 gsm
+486,delivered,sample,16.0,492,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXcled Nylon
+685,delivered,sample,7.0,492,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXcled Nylon
+814,delivered,sample,5.5,492,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXcled Nylon
+1171,delivered,sample,50.0,492,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXcled Nylon
+322,delivered,swatch,1.0,492,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXcled Nylon
+1209,delivered,swatch,1.0,492,338,XXXXXXXric.zemp@XXXXXag.ch,XXXXXXXrÃ©dÃ©ric,active,admin,XXXXXXXXXXcled Nylon
+1668,delivered,swatch,1.0,1207,383,XXXXXXXserena@XXXXXe.com,XXXXXXXerena,active,admin,XXXXXXXXXXe Recycled Polyester Nylon
+1665,delivered,swatch,1.0,2087,383,XXXXXXXserena@XXXXXe.com,XXXXXXXerena,active,admin,XXXXXXXXXXRecycled Nylon Recycled Elastane
+1824,initial,sample,1.0,1405,534,XXXXXXXXXXXXriz.com,XXXXXXX Carpaij,active,admin,XXXXXXXXXXCAMOUF/MATTE/SUEDE TURMALINA
+576,available,sample,1.0,1405,260,XXXXXXXnyperez1@XXXXX.com,XXXXXXXny HernÃ¡ndez PÃ©rez,active,admin,XXXXXXXXXXCAMOUF/MATTE/SUEDE TURMALINA
+1517,initial,sample,1.0,1405,424,XXXXXXXrt@XXXXXcourage.com,XXXXXXX Simoes,active,admin,XXXXXXXXXXCAMOUF/MATTE/SUEDE TURMALINA
+1877,delivered,swatch,1.0,2530,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX Twill Recycled Cotton 250 gsm
+1924,available,sample,15.0,2530,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX Twill Recycled Cotton 250 gsm
+1664,delivered,swatch,1.0,2109,383,XXXXXXXserena@XXXXXe.com,XXXXXXXerena,active,admin,XXXXXXXXXXLyocell Recycled Nylon
+1864,delivered,swatch,1.0,2109,534,XXXXXXXXXXXXriz.com,XXXXXXX Carpaij,active,admin,XXXXXXXXXXLyocell Recycled Nylon
+1667,delivered,swatch,1.0,1130,383,XXXXXXXserena@XXXXXe.com,XXXXXXXerena,active,admin,XXXXXXXXXXsey Recycled Nylon Elastane
+441,available,sample,2.0,1130,44,XXXXXXX@XXXXXitumgrp.com,XXXXXXXLai,active,admin,XXXXXXXXXXsey Recycled Nylon Elastane
+1074,available,swatch,1.0,1130,328,XXXXXXXXXXXXfashion.com,XXXXXXX Guidetti,active,admin,XXXXXXXXXXsey Recycled Nylon Elastane
+1222,delivered,swatch,2.0,1130,360,XXXXXXXgergo97@XXXXX.com,XXXXXXX RÃ¡cz,active,admin,XXXXXXXXXXsey Recycled Nylon Elastane
+1663,delivered,swatch,1.0,2091,383,XXXXXXXserena@XXXXXe.com,XXXXXXXerena,active,admin,XXXXXXXXXXoma Recycled Nylon Recycled Elastane
+1630,available,sample,2.0,2091,340,XXXXXXXanner.nguyen@XXXXX.com,XXXXXXXBerlin,active,admin,XXXXXXXXXXoma Recycled Nylon Recycled Elastane
+1666,delivered,swatch,1.0,2090,383,XXXXXXXserena@XXXXXe.com,XXXXXXXerena,active,admin,XXXXXXXXXXRecycled Nylon Recycled Elastane
+1715,initial,sample,50.0,2090,416,XXXXXXXhinton@XXXXXsper.co.uk,XXXXXXXHinton,active,admin,XXXXXXXXXXRecycled Nylon Recycled Elastane
+1669,delivered,swatch,1.0,2275,383,XXXXXXXserena@XXXXXe.com,XXXXXXXerena,active,admin,XXXXXXXXXXycled Nylon Recycled Elastane
+66,initial,sample,1.0,548,106,XXXXXXXinezadesign@XXXXX.com,XXXXXXXIneza,active,admin,XXXXXXXXXXce ribbons
+67,initial,sample,1.0,547,106,XXXXXXXinezadesign@XXXXX.com,XXXXXXXIneza,active,admin,XXXXXXXXXXce ribbons
+1428,delivered,swatch,1.0,1797,386,XXXXXXX@XXXXXd.de,XXXXXXX Gevers,active,admin,XXXXXXXXXX Hemp
+1361,delivered,swatch,2.0,1797,412,XXXXXXXniaten@XXXXXom,XXXXXXXia hodge,active,admin,XXXXXXXXXX Hemp
+1237,delivered,swatch,2.0,1797,360,XXXXXXXgergo97@XXXXX.com,XXXXXXX RÃ¡cz,active,admin,XXXXXXXXXX Hemp
+1497,delivered,swatch,1.0,1797,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX Hemp
+1878,initial,sample,2.0,2467,541,XXXXXXXszkudlarek@XXXXX.com,XXXXXXXarable,active,admin,XXXXXXXXXXLMON PANEL Wood river matte
+284,delivered,swatch,1.0,631,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXRipstop Recycled Nylon
+1566,delivered,swatch,1.0,729,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXy 110 ORG: Waterproof Organic Cotton 110 gsm
+1450,delivered,swatch,1.0,729,114,XXXXXXXra.verlic@XXXXX.com,XXXXXXXa Verlic,active,admin,XXXXXXXXXXy 110 ORG: Waterproof Organic Cotton 110 gsm
+446,available,sample,1.0,667,44,XXXXXXX@XXXXXitumgrp.com,XXXXXXXLai,active,admin,XXXXXXXXXXanical Stretch Recycled Polyester
+68,initial,sample,1.0,556,106,XXXXXXXinezadesign@XXXXX.com,XXXXXXXIneza,active,admin,XXXXXXXXXXbed Jacquard Organic Cotton
+69,initial,sample,1.0,563,106,XXXXXXXinezadesign@XXXXX.com,XXXXXXXIneza,active,admin,XXXXXXXXXXdstooth Organic Cotton
+436,delayed,sample,0.0,1196,44,XXXXXXX@XXXXXitumgrp.com,XXXXXXXLai,active,admin,XXXXXXXXXX power I
+1258,delivered,swatch,2.0,1196,360,XXXXXXXgergo97@XXXXX.com,XXXXXXX RÃ¡cz,active,admin,XXXXXXXXXX power I
+246,delivered,sample,10.0,506,58,XXXXXXXXXXXXix.uk,XXXXXXX Peluso,active,product_user,XXXXXXXXXXtretch Plain Recycled Nylon
+240,available,sample,50.0,506,58,XXXXXXXXXXXXix.uk,XXXXXXX Peluso,active,product_user,XXXXXXXXXXtretch Plain Recycled Nylon
+448,available,sample,2.0,644,44,XXXXXXX@XXXXXitumgrp.com,XXXXXXXLai,active,admin,XXXXXXXXXXtretch Plain Recycled Polyester
+447,available,sample,2.0,66,44,XXXXXXX@XXXXXitumgrp.com,XXXXXXXLai,active,admin,XXXXXXXXXXr Way Stretch Plain Nylon 2
+445,available,sample,2.0,645,44,XXXXXXX@XXXXXitumgrp.com,XXXXXXXLai,active,admin,XXXXXXXXXXtretch Full Dull Plain Nylon Spandex
+1628,available,sample,2.0,2272,340,XXXXXXXanner.nguyen@XXXXX.com,XXXXXXXBerlin,active,admin,XXXXXXXXXX
+1600,delivered,swatch,1.0,2272,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX
+1883,delivered,swatch,1.0,2332,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXING Viscose
+1718,available,swatch,1.0,2332,448,XXXXXXXoketevan@XXXXXok.com,XXXXXXXegrelishvili,active,admin,XXXXXXXXXXING Viscose
+1723,delivered,sample,1.0,2332,448,XXXXXXXoketevan@XXXXXok.com,XXXXXXXegrelishvili,active,admin,XXXXXXXXXXING Viscose
+971,initial,swatch,1.0,1551,287,XXXXXXXnfu@XXXXXngming.com.hk,XXXXXXXPower,active,admin,XXXXXXXXXXsey Stretc Eco Polyester
+1570,available,swatch,1.0,870,319,XXXXXXXcs@XXXXXvalowena.com,XXXXXXXimmonds,active,admin,XXXXXXXXXXgid semi-suiting Corduroy
+1569,available,swatch,1.0,868,319,XXXXXXXcs@XXXXXvalowena.com,XXXXXXXimmonds,active,admin,XXXXXXXXXXiting Stretch Corduroy
+1800,delivered,swatch,1.0,2280,533,XXXXXXXXXXXXleonardsson.com,XXXXXXXLeonardsson,active,admin,XXXXXXXXXXcled Cotton
+1568,available,swatch,1.0,864,319,XXXXXXXcs@XXXXXvalowena.com,XXXXXXXimmonds,active,admin,XXXXXXXXXXgid Suiting Corduroy
+562,delivered,sample,1.0,1333,260,XXXXXXXnyperez1@XXXXX.com,XXXXXXXny HernÃ¡ndez PÃ©rez,active,admin,XXXXXXXXXXTUNA PAMPA
+626,delayed,sample,2.0,1333,260,XXXXXXXnyperez1@XXXXX.com,XXXXXXXny HernÃ¡ndez PÃ©rez,active,admin,XXXXXXXXXXTUNA PAMPA
+609,delivered,swatch,1.0,1333,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXTUNA PAMPA
+589,initial,swatch,1.0,1333,187,XXXXXXX.studio@XXXXXok.com,XXXXXXX ,active,admin,XXXXXXXXXXTUNA PAMPA
+1886,initial,sample,4.0,2403,434,XXXXXXX@XXXXXhestudio.com,XXXXXXXlla Wood,active,admin,XXXXXXXXXXlk Lycra
+1827,available,swatch,1.0,2256,340,XXXXXXXanner.nguyen@XXXXX.com,XXXXXXXBerlin,active,admin,XXXXXXXXXXcled Nylon
+1829,available,sample,1.0,2256,340,XXXXXXXanner.nguyen@XXXXX.com,XXXXXXXBerlin,active,admin,XXXXXXXXXXcled Nylon
+1629,available,sample,2.0,2256,340,XXXXXXXanner.nguyen@XXXXX.com,XXXXXXXBerlin,active,admin,XXXXXXXXXXcled Nylon
+1457,initial,sample,1.0,912,455,XXXXXXXXXXXXolechat.com,XXXXXXX,active,admin,XXXXXXXXXXic Cotton/Linen Shirting-White
+1283,delivered,swatch,1.0,912,374,XXXXXXXXXXXXobemore.com,XXXXXXX Fanny Raimondo,active,admin,XXXXXXXXXXic Cotton/Linen Shirting-White
+400,delivered,sample,2.0,486,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXegradable Nylon
+605,delivered,sample,4.0,486,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXegradable Nylon
+1599,delivered,swatch,1.0,486,114,XXXXXXXra.verlic@XXXXX.com,XXXXXXXa Verlic,active,admin,XXXXXXXXXXegradable Nylon
+1819,available,sample,4.0,486,114,XXXXXXXra.verlic@XXXXX.com,XXXXXXXa Verlic,active,admin,XXXXXXXXXXegradable Nylon
+1015,delivered,sample,16.0,486,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXegradable Nylon
+352,delivered,swatch,1.0,486,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXegradable Nylon
+488,delivered,swatch,1.0,486,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXegradable Nylon
+1324,delivered,swatch,1.0,486,364,XXXXXXXst@XXXXXac.uk,XXXXXXX,active,admin,XXXXXXXXXXegradable Nylon
+1542,delivered,swatch,1.0,486,412,XXXXXXXniaten@XXXXXom,XXXXXXXia hodge,active,admin,XXXXXXXXXXegradable Nylon
+1794,delivered,swatch,1.0,1859,533,XXXXXXXXXXXXleonardsson.com,XXXXXXXLeonardsson,active,admin,XXXXXXXXXXh Recycled Polyester
+1795,delivered,swatch,1.0,1976,533,XXXXXXXXXXXXleonardsson.com,XXXXXXXLeonardsson,active,admin,XXXXXXXXXXled Polyester Elastane
+1483,delivered,swatch,1.0,1976,433,XXXXXXXe_wells@XXXXXok.com,XXXXXXX,active,admin,XXXXXXXXXXled Polyester Elastane
+1797,delivered,swatch,1.0,2071,533,XXXXXXXXXXXXleonardsson.com,XXXXXXXLeonardsson,active,admin,XXXXXXXXXXra Jersey
+1798,delivered,swatch,1.0,2245,533,XXXXXXXXXXXXleonardsson.com,XXXXXXXLeonardsson,active,admin,XXXXXXXXXXcled Nylon PU
+1799,delivered,swatch,1.0,1413,533,XXXXXXXXXXXXleonardsson.com,XXXXXXXLeonardsson,active,admin,XXXXXXXXXXe Recycled Polyester Elastane
+1830,delivered,sample,3.0,649,412,XXXXXXXniaten@XXXXXom,XXXXXXXia hodge,active,admin,XXXXXXXXXXodegradable Nylon
+351,delivered,swatch,1.0,649,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXodegradable Nylon
+1592,delivered,swatch,1.0,649,114,XXXXXXXra.verlic@XXXXX.com,XXXXXXXa Verlic,active,admin,XXXXXXXXXXodegradable Nylon
+1384,delivered,swatch,2.0,649,412,XXXXXXXniaten@XXXXXom,XXXXXXXia hodge,active,admin,XXXXXXXXXXodegradable Nylon
+361,initial,sample,100.0,491,221,XXXXXXX@XXXXXescence.com,XXXXXXXscence,active,admin,XXXXXXXXXXnic Cotton 2
+784,delivered,sample,4.0,491,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXnic Cotton 2
+903,delivered,sample,3.5,491,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXnic Cotton 2
+803,delivered,swatch,1.0,491,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXnic Cotton 2
+62,initial,swatch,1.0,491,106,XXXXXXXinezadesign@XXXXX.com,XXXXXXXIneza,active,admin,XXXXXXXXXXnic Cotton 2
+363,initial,sample,155.0,1172,221,XXXXXXX@XXXXXescence.com,XXXXXXXscence,active,admin,XXXXXXXXXXuard Upcycled Silk (76000TP)
+1332,initial,sample,3.0,1172,289,XXXXXXXndra.emanuel@XXXXX.com,XXXXXXXdra Emanuel,active,admin,XXXXXXXXXXuard Upcycled Silk (76000TP)
+1055,delivered,swatch,1.0,1172,36,XXXXXXXa@XXXXXr.com,XXXXXXX Villas,active,admin,XXXXXXXXXXuard Upcycled Silk (76000TP)
+1234,delivered,swatch,2.0,1172,360,XXXXXXXgergo97@XXXXX.com,XXXXXXX RÃ¡cz,active,admin,XXXXXXXXXXuard Upcycled Silk (76000TP)
+343,initial,sample,0.2,598,184,XXXXXXXerikesnelting@XXXXXe,XXXXXXXrike Snelting,active,admin,XXXXXXXXXXsey Recycled Polyester Elastine
+1574,initial,swatch,1.0,736,497,XXXXXXXmontero@XXXXXmontero.com,XXXXXXXMontero,active,admin,XXXXXXXXXX® Natural White - uncoated
+651,delivered,swatch,1.0,736,264,XXXXXXX.knight@XXXXXrd.co.uk,XXXXXXXKnight,active,admin,XXXXXXXXXX® Natural White - uncoated
+995,available,swatch,1.0,736,311,XXXXXXXct@XXXXXelier.com,XXXXXXXa Ponce de LeÃ³n,active,admin,XXXXXXXXXX® Natural White - uncoated
+994,available,swatch,1.0,736,311,XXXXXXXct@XXXXXelier.com,XXXXXXXa Ponce de LeÃ³n,active,admin,XXXXXXXXXX® Natural White - uncoated
+1480,initial,swatch,1.0,736,455,XXXXXXXXXXXXolechat.com,XXXXXXX,active,admin,XXXXXXXXXX® Natural White - uncoated
+1576,initial,swatch,1.0,2082,490,XXXXXXXuen@XXXXX.com,XXXXXXXen,active,product_user,XXXXXXXXXXtton Jersey
+439,delayed,sample,0.0,1197,44,XXXXXXX@XXXXXitumgrp.com,XXXXXXXLai,active,admin,XXXXXXXXXX cosmetic II
+1903,delivered,swatch,1.0,1197,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX cosmetic II
+662,delivered,swatch,1.0,1197,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX cosmetic II
+1005,available,swatch,1.0,1197,311,XXXXXXXct@XXXXXelier.com,XXXXXXXa Ponce de LeÃ³n,active,admin,XXXXXXXXXX cosmetic II
+1241,delivered,swatch,2.0,1197,360,XXXXXXXgergo97@XXXXX.com,XXXXXXX RÃ¡cz,active,admin,XXXXXXXXXX cosmetic II
+438,delayed,sample,0.0,1320,44,XXXXXXX@XXXXXitumgrp.com,XXXXXXXLai,active,admin,XXXXXXXXXX core I
+1247,delivered,swatch,2.0,1320,360,XXXXXXXgergo97@XXXXX.com,XXXXXXX RÃ¡cz,active,admin,XXXXXXXXXX core I
+1577,initial,swatch,1.0,2164,490,XXXXXXXuen@XXXXX.com,XXXXXXXen,active,product_user,XXXXXXXXXXoo
+1578,initial,swatch,1.0,2154,490,XXXXXXXuen@XXXXX.com,XXXXXXXen,active,product_user,XXXXXXXXXXnic Cotton
+1579,initial,swatch,1.0,2149,490,XXXXXXXuen@XXXXX.com,XXXXXXXen,active,product_user,XXXXXXXXXXtton
+1580,initial,swatch,1.0,2078,490,XXXXXXXuen@XXXXX.com,XXXXXXXen,active,product_user,XXXXXXXXXXtton Jersey
+78,initial,sample,1.0,561,106,XXXXXXXinezadesign@XXXXX.com,XXXXXXXIneza,active,admin,XXXXXXXXXXringbone TENCEL Hemp
+1426,delivered,swatch,1.0,1476,386,XXXXXXX@XXXXXd.de,XXXXXXX Gevers,active,admin,XXXXXXXXXXncel Jersey
+1488,delivered,swatch,1.0,1476,433,XXXXXXXe_wells@XXXXXok.com,XXXXXXX,active,admin,XXXXXXXXXXncel Jersey
+1242,delivered,swatch,2.0,1476,360,XXXXXXXgergo97@XXXXX.com,XXXXXXX RÃ¡cz,active,admin,XXXXXXXXXXncel Jersey
+1581,initial,swatch,1.0,2076,490,XXXXXXXuen@XXXXX.com,XXXXXXXen,active,product_user,XXXXXXXXXXtton Fleece
+1937,shipped,swatch,1.0,2076,574,XXXXXXXXXXXXg.com,XXXXXXX,active,admin,XXXXXXXXXXtton Fleece
+1582,initial,swatch,1.0,2085,490,XXXXXXXuen@XXXXX.com,XXXXXXXen,active,product_user,XXXXXXXXXXtton Jersey
+485,delivered,sample,5.0,493,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX Plain Recycled Nylon 1
+1597,delivered,swatch,1.0,493,114,XXXXXXXra.verlic@XXXXX.com,XXXXXXXa Verlic,active,admin,XXXXXXXXXX Plain Recycled Nylon 1
+1207,delivered,swatch,1.0,493,338,XXXXXXXric.zemp@XXXXXag.ch,XXXXXXXrÃ©dÃ©ric,active,admin,XXXXXXXXXX Plain Recycled Nylon 1
+490,delivered,sample,4.0,489,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXnic Cotton Recycled Polyester
+1598,delivered,swatch,1.0,489,114,XXXXXXXra.verlic@XXXXX.com,XXXXXXXa Verlic,active,admin,XXXXXXXXXXnic Cotton Recycled Polyester
+916,delivered,sample,3.5,489,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXnic Cotton Recycled Polyester
+917,delivered,sample,5.0,489,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXnic Cotton Recycled Polyester
+1173,delivered,sample,50.0,489,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXnic Cotton Recycled Polyester
+1174,delivered,sample,50.0,489,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXnic Cotton Recycled Polyester
+1175,delivered,sample,50.0,489,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXnic Cotton Recycled Polyester
+1172,delivered,sample,50.0,489,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXnic Cotton Recycled Polyester
+802,delivered,swatch,1.0,489,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXnic Cotton Recycled Polyester
+783,available,sample,200.0,391,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXX Plain Recycled Polyester
+782,available,sample,200.0,391,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXX Plain Recycled Polyester
+979,delivered,sample,100.0,391,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXX Plain Recycled Polyester
+1351,delivered,sample,252.0,391,381,XXXXXXXXXXXXcom,XXXXXXX,active,admin,XXXXXXXXXX Plain Recycled Polyester
+1278,delivered,sample,2102.15,391,381,XXXXXXXXXXXXcom,XXXXXXX,active,admin,XXXXXXXXXX Plain Recycled Polyester
+1549,delivered,sample,30.0,391,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXX Plain Recycled Polyester
+1548,available,sample,10.0,391,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXX Plain Recycled Polyester
+309,delivered,swatch,1.0,391,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX Plain Recycled Polyester
+1550,delivered,sample,10.0,391,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXX Plain Recycled Polyester
+330,initial,swatch,1.0,391,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX Plain Recycled Polyester
+417,available,sample,1.0,1216,216,XXXXXXXXXXXXiaava.com,XXXXXXXa Ava ,active,admin,XXXXXXXXXX BEIGE FANTASY
+416,available,swatch,1.0,1216,216,XXXXXXXXXXXXiaava.com,XXXXXXXa Ava ,active,admin,XXXXXXXXXX BEIGE FANTASY
+607,delivered,swatch,1.0,1216,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXX BEIGE FANTASY
+368,initial,swatch,1.0,1216,187,XXXXXXX.studio@XXXXXok.com,XXXXXXX ,active,admin,XXXXXXXXXX BEIGE FANTASY
+489,delivered,sample,7.0,662,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXlain Nylon
+321,delivered,swatch,1.0,662,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXlain Nylon
+442,available,sample,2.0,1187,44,XXXXXXX@XXXXXitumgrp.com,XXXXXXXLai,active,admin,XXXXXXXXXXnic Cotton
+669,delivered,swatch,1.0,1187,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXnic Cotton
+880,delivered,swatch,1.0,1187,307,XXXXXXXia@XXXXXano.net,XXXXXXXa Estrada,active,admin,XXXXXXXXXXnic Cotton
+1472,initial,swatch,1.0,1187,455,XXXXXXXXXXXXolechat.com,XXXXXXX,active,admin,XXXXXXXXXXnic Cotton
+443,available,sample,2.0,1188,44,XXXXXXX@XXXXXitumgrp.com,XXXXXXXLai,active,admin,XXXXXXXXXXet Organic Cotton
+1226,delivered,swatch,2.0,1188,360,XXXXXXXgergo97@XXXXX.com,XXXXXXX RÃ¡cz,active,admin,XXXXXXXXXXet Organic Cotton
+996,available,swatch,1.0,1188,311,XXXXXXXct@XXXXXelier.com,XXXXXXXa Ponce de LeÃ³n,active,admin,XXXXXXXXXXet Organic Cotton
+1357,delivered,swatch,2.0,1188,412,XXXXXXXniaten@XXXXXom,XXXXXXXia hodge,active,admin,XXXXXXXXXXet Organic Cotton
+1476,initial,swatch,1.0,1188,455,XXXXXXXXXXXXolechat.com,XXXXXXX,active,admin,XXXXXXXXXXet Organic Cotton
+444,delayed,sample,0.0,1200,44,XXXXXXX@XXXXXitumgrp.com,XXXXXXXLai,active,admin,XXXXXXXXXX upcycled I
+1250,delivered,swatch,2.0,1200,360,XXXXXXXgergo97@XXXXX.com,XXXXXXX RÃ¡cz,active,admin,XXXXXXXXXX upcycled I
+1960,shipped,sample,5.0,2335,532,XXXXXXXna@XXXXXr.com,XXXXXXXa,active,product_user,XXXXXXXXXX¢ V1
+1962,delayed,sample,5.0,2335,532,XXXXXXXna@XXXXXr.com,XXXXXXXa,active,product_user,XXXXXXXXXX¢ V1
+434,available,sample,1.0,680,44,XXXXXXX@XXXXXitumgrp.com,XXXXXXXLai,active,admin,XXXXXXXXXXic Cotton stretch Dobby
+1395,delivered,swatch,2.0,680,412,XXXXXXXniaten@XXXXXom,XXXXXXXia hodge,active,admin,XXXXXXXXXXic Cotton stretch Dobby
+577,initial,sample,1.0,1325,260,XXXXXXXnyperez1@XXXXX.com,XXXXXXXny HernÃ¡ndez PÃ©rez,active,admin,XXXXXXXXXXK OPUNTIA
+606,delivered,swatch,1.0,1325,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXK OPUNTIA
+587,initial,swatch,1.0,1325,187,XXXXXXX.studio@XXXXXok.com,XXXXXXX ,active,admin,XXXXXXXXXXK OPUNTIA
+435,delayed,sample,1.0,678,44,XXXXXXX@XXXXXitumgrp.com,XXXXXXXLai,active,admin,XXXXXXXXXXic Cotton Heavy weight Single Jersey
+1493,delivered,swatch,1.0,678,433,XXXXXXXe_wells@XXXXXok.com,XXXXXXX,active,admin,XXXXXXXXXXic Cotton Heavy weight Single Jersey
+1486,delivered,swatch,1.0,1979,433,XXXXXXXe_wells@XXXXXok.com,XXXXXXX,active,admin,XXXXXXXXXXsey Recycled Polyester Elastane
+1801,delivered,swatch,1.0,2296,533,XXXXXXXXXXXXleonardsson.com,XXXXXXXLeonardsson,active,admin,XXXXXXXXXXycled Polyester
+450,initial,sample,3.0,1219,252,XXXXXXXXXXXXee.co,XXXXXXXca,active,admin,XXXXXXXXXXER
+384,delivered,swatch,1.0,1219,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXER
+616,delivered,swatch,1.0,1219,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXER
+594,initial,swatch,1.0,1219,187,XXXXXXX.studio@XXXXXok.com,XXXXXXX ,active,admin,XXXXXXXXXXER
+1487,delivered,swatch,1.0,1978,433,XXXXXXXe_wells@XXXXXok.com,XXXXXXX,active,admin,XXXXXXXXXXsey Recycled Polyester Elastane
+449,delivered,sample,14.0,1144,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXX Ripstop Recycled Polyester
+503,delivered,sample,4.0,795,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXcled Nylon
+285,delivered,swatch,1.0,795,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXcled Nylon
+578,initial,sample,1.0,1331,260,XXXXXXXnyperez1@XXXXX.com,XXXXXXXny HernÃ¡ndez PÃ©rez,active,admin,XXXXXXXXXXE FREEPORT
+611,delivered,swatch,1.0,1331,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXE FREEPORT
+590,initial,swatch,1.0,1331,187,XXXXXXX.studio@XXXXXok.com,XXXXXXX ,active,admin,XXXXXXXXXXE FREEPORT
+678,available,sample,1.0,1403,281,XXXXXXXXXXXXebijoux.com,XXXXXXXia,active,admin,XXXXXXXXXXCAMOUF/MATTE/SUEDE BLACK
+566,delivered,sample,1.0,1403,260,XXXXXXXnyperez1@XXXXX.com,XXXXXXXny HernÃ¡ndez PÃ©rez,active,admin,XXXXXXXXXXCAMOUF/MATTE/SUEDE BLACK
+579,delivered,sample,2.0,1403,260,XXXXXXXnyperez1@XXXXX.com,XXXXXXXny HernÃ¡ndez PÃ©rez,active,admin,XXXXXXXXXXCAMOUF/MATTE/SUEDE BLACK
+1782,delivered,sample,1.0,1403,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXCAMOUF/MATTE/SUEDE BLACK
+1726,available,sample,1.0,1403,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXCAMOUF/MATTE/SUEDE BLACK
+620,initial,sample,3.0,903,251,XXXXXXXdagan@XXXXXtudios.com,XXXXXXXagan,active,admin,XXXXXXXXXXic in Jacquard weave
+1805,delayed,swatch,1.0,903,533,XXXXXXXXXXXXleonardsson.com,XXXXXXXLeonardsson,active,admin,XXXXXXXXXXic in Jacquard weave
+1587,initial,swatch,2.0,2095,442,XXXXXXXrwa@XXXXXratelier.com,XXXXXXXAbdelkader,active,admin,XXXXXXXXXX
+1586,initial,swatch,2.0,2092,442,XXXXXXXrwa@XXXXXratelier.com,XXXXXXXAbdelkader,active,admin,XXXXXXXXXX
+1585,initial,swatch,2.0,2093,442,XXXXXXXrwa@XXXXXratelier.com,XXXXXXXAbdelkader,active,admin,XXXXXXXXXX
+1334,initial,sample,3.0,1181,289,XXXXXXXndra.emanuel@XXXXX.com,XXXXXXXdra Emanuel,active,admin,XXXXXXXXXXtrait Jacquard Upcycled Silk (76014TF)
+1056,delivered,swatch,1.0,1181,36,XXXXXXXa@XXXXXr.com,XXXXXXX Villas,active,admin,XXXXXXXXXXtrait Jacquard Upcycled Silk (76014TF)
+1235,delivered,swatch,2.0,1181,360,XXXXXXXgergo97@XXXXX.com,XXXXXXX RÃ¡cz,active,admin,XXXXXXXXXXtrait Jacquard Upcycled Silk (76014TF)
+580,delivered,sample,1.0,1395,260,XXXXXXXnyperez1@XXXXX.com,XXXXXXXny HernÃ¡ndez PÃ©rez,active,admin,XXXXXXXXXXLMON PANEL SHINY GREEN BLACK FURTACOR
+487,delivered,sample,8.0,650,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXodegradable Nylon
+687,delivered,sample,4.0,650,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXodegradable Nylon
+813,delivered,sample,2.5,650,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXodegradable Nylon
+1176,delivered,sample,50.0,650,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXodegradable Nylon
+491,delivered,sample,4.0,495,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXcled Nylon 1
+293,delivered,swatch,1.0,830,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXtton Fleece Ecru
+1614,available,sample,1.0,849,474,XXXXXXXeth@XXXXXnsvanniekerk.nl,XXXXXXXth Oltmans,active,admin,XXXXXXXXXXsey Recycled Wool Recycled Nylon
+295,delivered,swatch,1.0,849,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXsey Recycled Wool Recycled Nylon
+1380,delivered,swatch,1.0,311,412,XXXXXXXniaten@XXXXXom,XXXXXXXia hodge,active,admin,XXXXXXXXXXRib Recycled Polyester
+317,delivered,swatch,1.0,311,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXRib Recycled Polyester
+633,initial,sample,2.0,1215,260,XXXXXXXnyperez1@XXXXX.com,XXXXXXXny HernÃ¡ndez PÃ©rez,active,admin,XXXXXXXXXXE BLACK NIGHT ROCKPORT
+574,initial,sample,1.0,1215,260,XXXXXXXnyperez1@XXXXX.com,XXXXXXXny HernÃ¡ndez PÃ©rez,active,admin,XXXXXXXXXXE BLACK NIGHT ROCKPORT
+610,delivered,swatch,1.0,1215,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXE BLACK NIGHT ROCKPORT
+420,available,swatch,1.0,1215,216,XXXXXXXXXXXXiaava.com,XXXXXXXa Ava ,active,admin,XXXXXXXXXXE BLACK NIGHT ROCKPORT
+635,delivered,swatch,1.0,1215,267,XXXXXXX@XXXXXashion,XXXXXXXColl,active,admin,XXXXXXXXXXE BLACK NIGHT ROCKPORT
+364,initial,swatch,1.0,1215,217,XXXXXXX@XXXXXoheijne.com,XXXXXXXHeijne,active,admin,XXXXXXXXXXE BLACK NIGHT ROCKPORT
+369,initial,swatch,1.0,1215,187,XXXXXXX.studio@XXXXXok.com,XXXXXXX ,active,admin,XXXXXXXXXXE BLACK NIGHT ROCKPORT
+239,delayed,sample,1.0,149,58,XXXXXXXXXXXXix.uk,XXXXXXX Peluso,active,product_user,XXXXXXXXXXFour Way Stretch Plain Recycled Polyester
+500,delivered,swatch,1.0,1190,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXrganic Cotton
+1049,delivered,swatch,1.0,1190,36,XXXXXXXa@XXXXXr.com,XXXXXXX Villas,active,admin,XXXXXXXXXXrganic Cotton
+498,delivered,swatch,1.0,381,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXbrane Plain Polyester
+310,initial,swatch,1.0,381,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXbrane Plain Polyester
+604,initial,sample,10.0,497,257,XXXXXXXXXXXXailoring.com,XXXXXXXl sehlawi ,active,admin,XXXXXXXXXXcled Polyester
+682,delivered,sample,5.0,497,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXcled Polyester
+688,delivered,sample,7.0,497,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXcled Polyester
+683,delivered,sample,7.0,497,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXcled Polyester
+493,delivered,swatch,1.0,497,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXcled Polyester
+1003,available,swatch,1.0,497,311,XXXXXXXct@XXXXXelier.com,XXXXXXXa Ponce de LeÃ³n,active,admin,XXXXXXXXXXcled Polyester
+1206,delivered,swatch,1.0,497,338,XXXXXXXric.zemp@XXXXXag.ch,XXXXXXXrÃ©dÃ©ric,active,admin,XXXXXXXXXXcled Polyester
+561,delayed,sample,1.0,1383,260,XXXXXXXnyperez1@XXXXX.com,XXXXXXXny HernÃ¡ndez PÃ©rez,active,admin,XXXXXXXXXXRARUCU WILDSMALL LL MATTE BLACK
+625,available,sample,2.0,1334,260,XXXXXXXnyperez1@XXXXX.com,XXXXXXXny HernÃ¡ndez PÃ©rez,active,admin,XXXXXXXXXXN CACTUS PAMPA
+560,delivered,sample,1.0,1334,260,XXXXXXXnyperez1@XXXXX.com,XXXXXXXny HernÃ¡ndez PÃ©rez,active,admin,XXXXXXXXXXN CACTUS PAMPA
+588,initial,swatch,1.0,1334,187,XXXXXXX.studio@XXXXXok.com,XXXXXXX ,active,admin,XXXXXXXXXXN CACTUS PAMPA
+608,delivered,swatch,1.0,1334,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXN CACTUS PAMPA
+1892,delivered,sample,1.0,2443,534,XXXXXXXXXXXXriz.com,XXXXXXX Carpaij,active,admin,XXXXXXXXXXMUSGO MATTE CAMOUFLAGE
+1889,delivered,swatch,1.0,1802,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX Slub Organic Cotton/Linen  232 gsm
+1448,delivered,swatch,1.0,1802,114,XXXXXXXra.verlic@XXXXX.com,XXXXXXXa Verlic,active,admin,XXXXXXXXXX Slub Organic Cotton/Linen  232 gsm
+1894,initial,swatch,1.0,742,567,XXXXXXXon@XXXXXu.la,XXXXXXXn Lee,active,admin,XXXXXXXXXX® All Black - uncoated
+1367,delayed,sample,2.0,742,412,XXXXXXXniaten@XXXXXom,XXXXXXXia hodge,active,admin,XXXXXXXXXX® All Black - uncoated
+401,available,sample,5.0,794,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXcycled Nylon
+286,delivered,swatch,1.0,794,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXcycled Nylon
+1671,delivered,swatch,1.0,2075,383,XXXXXXXserena@XXXXXe.com,XXXXXXXerena,active,admin,XXXXXXXXXXleece LENZING Tencel Organic Cotton
+563,delayed,sample,1.0,1379,260,XXXXXXXnyperez1@XXXXX.com,XXXXXXXny HernÃ¡ndez PÃ©rez,active,admin,XXXXXXXXXXRARUCU WILD LL ULTRA SHINY BLUE POWDER
+661,delivered,swatch,1.0,1199,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXbio III
+1328,delivered,swatch,1.0,1199,364,XXXXXXXst@XXXXXac.uk,XXXXXXX,active,admin,XXXXXXXXXXbio III
+1240,delivered,swatch,2.0,1199,360,XXXXXXXgergo97@XXXXX.com,XXXXXXX RÃ¡cz,active,admin,XXXXXXXXXXbio III
+494,delivered,sample,4.0,844,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXsey Recycled Cashmere
+686,delivered,sample,5.0,844,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXsey Recycled Cashmere
+904,delivered,sample,1.0,844,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXsey Recycled Cashmere
+1181,delivered,sample,15.0,844,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXsey Recycled Cashmere
+314,initial,swatch,2.0,844,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXsey Recycled Cashmere
+300,delivered,swatch,1.0,844,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXsey Recycled Cashmere
+1561,available,swatch,1.0,899,207,XXXXXXXicich@XXXXXnd.com,XXXXXXX Milicich,active,admin,XXXXXXXXXXEL Lyocell Hemp
+1051,delivered,swatch,1.0,856,36,XXXXXXXa@XXXXXr.com,XXXXXXX Villas,active,admin,XXXXXXXXXXnen blended Light weight fabric
+1942,initial,sample,4.0,856,434,XXXXXXX@XXXXXhestudio.com,XXXXXXXlla Wood,active,admin,XXXXXXXXXXnen blended Light weight fabric
+929,available,swatch,1.0,856,249,XXXXXXX662@XXXXXnt.rmit.edu.au,XXXXXXX,active,admin,XXXXXXXXXXnen blended Light weight fabric
+679,available,sample,1.0,1406,281,XXXXXXXXXXXXebijoux.com,XXXXXXXia,active,admin,XXXXXXXXXXCAMOUF/SHINY/WOODY/LINEN GREEN APPLE
+653,delivered,swatch,1.0,1134,264,XXXXXXX.knight@XXXXXrd.co.uk,XXXXXXXKnight,active,admin,XXXXXXXXXXrganic Cotton Recycled Nylon
+585,delivered,swatch,1.0,238,341,XXXXXXXlin@XXXXXr.com,XXXXXXXin Rutz,active,product_user,XXXXXXXXXXInterlock Recycled Polyester 2
+805,delivered,swatch,1.0,664,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX-based Nylon 3
+1208,delayed,swatch,1.0,664,338,XXXXXXXric.zemp@XXXXXag.ch,XXXXXXXrÃ©dÃ©ric,active,admin,XXXXXXXXXX-based Nylon 3
+866,delivered,swatch,1.0,1493,307,XXXXXXXia@XXXXXano.net,XXXXXXXa Estrada,active,admin,XXXXXXXXXXPlain Organic Cotton
+1461,initial,swatch,1.0,1493,455,XXXXXXXXXXXXolechat.com,XXXXXXX,active,admin,XXXXXXXXXXPlain Organic Cotton
+868,delivered,swatch,2.0,1494,307,XXXXXXXia@XXXXXano.net,XXXXXXXa Estrada,active,admin,XXXXXXXXXXPlain Peace Silk
+296,delivered,swatch,1.0,848,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXcled Wool Recycled Nylon
+1231,delivered,swatch,2.0,848,360,XXXXXXXgergo97@XXXXX.com,XXXXXXX RÃ¡cz,active,admin,XXXXXXXXXXcled Wool Recycled Nylon
+1402,initial,swatch,1.0,1474,416,XXXXXXXhinton@XXXXXsper.co.uk,XXXXXXXHinton,active,admin,XXXXXXXXXXovero Viscose Jersey
+1076,available,swatch,1.0,1204,328,XXXXXXXXXXXXfashion.com,XXXXXXX Guidetti,active,admin,XXXXXXXXXXtton Brushed Fleece
+637,delivered,sample,14.0,1417,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXX Port Royale
+1593,delivered,swatch,1.0,651,114,XXXXXXXra.verlic@XXXXX.com,XXXXXXXa Verlic,active,admin,XXXXXXXXXXodegradable Nylon
+1817,available,sample,4.0,651,114,XXXXXXXra.verlic@XXXXX.com,XXXXXXXa Verlic,active,admin,XXXXXXXXXXodegradable Nylon
+1383,delivered,swatch,2.0,651,412,XXXXXXXniaten@XXXXXom,XXXXXXXia hodge,active,admin,XXXXXXXXXXodegradable Nylon
+684,delivered,sample,2.0,494,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX Plain Recycled Nylon 2
+763,delivered,sample,5.0,494,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX Plain Recycled Nylon 2
+812,delivered,sample,4.0,494,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX Plain Recycled Nylon 2
+919,delivered,sample,2.2,494,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX Plain Recycled Nylon 2
+918,delivered,sample,2.2,494,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX Plain Recycled Nylon 2
+1179,delivered,sample,50.0,494,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX Plain Recycled Nylon 2
+1180,delivered,sample,50.0,494,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX Plain Recycled Nylon 2
+1177,delivered,sample,50.0,494,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX Plain Recycled Nylon 2
+1178,delivered,sample,50.0,494,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX Plain Recycled Nylon 2
+282,delivered,swatch,1.0,494,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXX Plain Recycled Nylon 2
+492,delivered,swatch,1.0,494,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX Plain Recycled Nylon 2
+1469,initial,swatch,1.0,1299,455,XXXXXXXXXXXXolechat.com,XXXXXXX,active,admin,XXXXXXXXXXen / SHL
+933,available,swatch,1.0,902,249,XXXXXXX662@XXXXXnt.rmit.edu.au,XXXXXXX,active,admin,XXXXXXXXXXn plain Suiting- Natural
+1893,delivered,sample,1.0,2445,534,XXXXXXXXXXXXriz.com,XXXXXXX Carpaij,active,admin,XXXXXXXXXXNATURAL WOODY SOLID MATTE
+1212,available,sample,40.0,1915,341,XXXXXXXlin@XXXXXr.com,XXXXXXXin Rutz,active,product_user,XXXXXXXXXX000
+1213,available,sample,45.0,1915,341,XXXXXXXlin@XXXXXr.com,XXXXXXXin Rutz,active,product_user,XXXXXXXXXX000
+1284,delivered,swatch,1.0,380,374,XXXXXXXXXXXXobemore.com,XXXXXXX Fanny Raimondo,active,admin,XXXXXXXXXXane Plain Polyester
+1419,delivered,swatch,1.0,1985,386,XXXXXXX@XXXXXd.de,XXXXXXX Gevers,active,admin,XXXXXXXXXXRecycled Polyester
+800,delivered,sample,1.0,1668,180,XXXXXXXeo@XXXXXac.uk,XXXXXXXomeo,active,admin,XXXXXXXXXXled Polyester  2
+1311,delivered,sample,92.0,1668,87,XXXXXXX.isanea@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXled Polyester  2
+659,delayed,swatch,1.0,1230,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX
+1652,initial,swatch,1.0,1230,497,XXXXXXXmontero@XXXXXmontero.com,XXXXXXXMontero,active,admin,XXXXXXXXXX
+386,delivered,swatch,1.0,1230,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXX
+998,delayed,swatch,1.0,1230,311,XXXXXXXct@XXXXXelier.com,XXXXXXXa Ponce de LeÃ³n,active,admin,XXXXXXXXXX
+1046,delivered,swatch,1.0,1230,36,XXXXXXXa@XXXXXr.com,XXXXXXX Villas,active,admin,XXXXXXXXXX
+1481,initial,swatch,1.0,1230,455,XXXXXXXXXXXXolechat.com,XXXXXXX,active,admin,XXXXXXXXXX
+1781,delivered,sample,35.0,2266,532,XXXXXXXna@XXXXXr.com,XXXXXXXa,active,product_user,XXXXXXXXXX Glass Polyester
+1963,delayed,sample,5.0,2266,532,XXXXXXXna@XXXXXr.com,XXXXXXXa,active,product_user,XXXXXXXXXX Glass Polyester
+1560,available,swatch,1.0,2208,207,XXXXXXXicich@XXXXXnd.com,XXXXXXX Milicich,active,admin,XXXXXXXXXXcell Bemberg
+1425,delivered,swatch,1.0,1502,386,XXXXXXX@XXXXXd.de,XXXXXXX Gevers,active,admin,XXXXXXXXXXPlain Organic Cotton
+1421,delivered,swatch,1.0,1740,386,XXXXXXX@XXXXXd.de,XXXXXXX Gevers,active,admin,XXXXXXXXXXgradable Recycle Polyester 5
+1326,delivered,swatch,1.0,1740,364,XXXXXXXst@XXXXXac.uk,XXXXXXX,active,admin,XXXXXXXXXXgradable Recycle Polyester 5
+795,delivered,sample,1.0,1660,180,XXXXXXXeo@XXXXXac.uk,XXXXXXXomeo,active,admin,XXXXXXXXXXSlub Recycled Nylon
+1210,delivered,swatch,1.0,1660,338,XXXXXXXric.zemp@XXXXXag.ch,XXXXXXXrÃ©dÃ©ric,active,admin,XXXXXXXXXXSlub Recycled Nylon
+1615,available,sample,1.0,142,474,XXXXXXXeth@XXXXXnsvanniekerk.nl,XXXXXXXth Oltmans,active,admin,XXXXXXXXXXRecycled Polyester
+1452,initial,swatch,1.0,1483,455,XXXXXXXXXXXXolechat.com,XXXXXXX,active,admin,XXXXXXXXXXPlain Organic Cotton
+864,delivered,swatch,1.0,1483,307,XXXXXXXia@XXXXXano.net,XXXXXXXa Estrada,active,admin,XXXXXXXXXXPlain Organic Cotton
+1617,available,sample,1.0,1210,474,XXXXXXXeth@XXXXXnsvanniekerk.nl,XXXXXXXth Oltmans,active,admin,XXXXXXXXXXool Nylon
+1943,initial,sample,3.0,2156,434,XXXXXXX@XXXXXhestudio.com,XXXXXXXlla Wood,active,admin,XXXXXXXXXX
+1944,initial,sample,3.0,1312,434,XXXXXXX@XXXXXhestudio.com,XXXXXXXlla Wood,active,admin,XXXXXXXXXXose Elastane
+379,delivered,swatch,1.0,1312,182,XXXXXXXne.g.leblanc@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXose Elastane
+584,delivered,swatch,1.0,1312,341,XXXXXXXlin@XXXXXr.com,XXXXXXXin Rutz,active,product_user,XXXXXXXXXXose Elastane
+1945,initial,sample,5.0,2274,434,XXXXXXX@XXXXXhestudio.com,XXXXXXXlla Wood,active,admin,XXXXXXXXXX
+1946,initial,sample,10.0,2203,434,XXXXXXX@XXXXXhestudio.com,XXXXXXXlla Wood,active,admin,XXXXXXXXXXcell Bemberg
+1818,available,sample,4.0,487,114,XXXXXXXra.verlic@XXXXX.com,XXXXXXXa Verlic,active,admin,XXXXXXXXXXnic Cotton Polyester 1
+1532,delivered,swatch,1.0,487,412,XXXXXXXniaten@XXXXXom,XXXXXXXia hodge,active,admin,XXXXXXXXXXnic Cotton Polyester 1
+799,delivered,sample,1.0,1734,180,XXXXXXXeo@XXXXXac.uk,XXXXXXXomeo,active,admin,XXXXXXXXXXled Polyester 1
+1337,initial,sample,500.0,1734,180,XXXXXXXeo@XXXXXac.uk,XXXXXXXomeo,active,admin,XXXXXXXXXXled Polyester 1
+1211,delivered,swatch,1.0,1734,338,XXXXXXXric.zemp@XXXXXag.ch,XXXXXXXrÃ©dÃ©ric,active,admin,XXXXXXXXXXled Polyester 1
+1436,initial,swatch,1.0,1189,427,XXXXXXXn.hayag@XXXXXoathletics.com,XXXXXXX Hayag,active,admin,XXXXXXXXXXanic Cotton Recycled Elastane
+881,delivered,swatch,1.0,1189,307,XXXXXXXia@XXXXXano.net,XXXXXXXa Estrada,active,admin,XXXXXXXXXXanic Cotton Recycled Elastane
+1356,delivered,swatch,2.0,1189,412,XXXXXXXniaten@XXXXXom,XXXXXXXia hodge,active,admin,XXXXXXXXXXanic Cotton Recycled Elastane
+1773,delivered,sample,5.0,1389,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXRARUCU PANEL LL SHINY GREEN BLACK FURTACOR
+1787,delivered,sample,1.0,1389,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXRARUCU PANEL LL SHINY GREEN BLACK FURTACOR
+1502,delivered,sample,1.0,1389,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXRARUCU PANEL LL SHINY GREEN BLACK FURTACOR
+1014,available,sample,32.0,1616,299,XXXXXXXproduction2020@XXXXX.com,XXXXXXXAdmin,active,admin,XXXXXXXXXX1HAC/09
+1085,delivered,sample,8.0,1616,299,XXXXXXXproduction2020@XXXXX.com,XXXXXXXAdmin,active,admin,XXXXXXXXXX1HAC/09
+1291,delivered,sample,412.0,1616,299,XXXXXXXproduction2020@XXXXX.com,XXXXXXXAdmin,active,admin,XXXXXXXXXX1HAC/09
+1625,initial,swatch,3.0,1924,172,XXXXXXX.stucki@XXXXXra.com,XXXXXXXStucki,active,admin,XXXXXXXXXXtop Recycled Polyester
+1603,delivered,swatch,1.0,2258,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX Glass PU
+1604,delivered,swatch,1.0,2254,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXnic Cotton
+1605,delivered,swatch,2.0,2253,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXganic Cotton
+1606,delivered,swatch,1.0,2249,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXecycled Polyester PU
+1784,delivered,sample,10.0,2249,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXecycled Polyester PU
+1755,delayed,sample,1.0,2249,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXecycled Polyester PU
+1786,initial,sample,10.0,2249,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXecycled Polyester PU
+1601,delivered,swatch,1.0,2269,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXolyester PU
+1602,delivered,swatch,1.0,2265,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX Glass Polyester
+1453,initial,swatch,1.0,953,455,XXXXXXXXXXXXolechat.com,XXXXXXX,active,admin,XXXXXXXXXXtton (60SX60S/132X120)
+1454,initial,swatch,1.0,951,455,XXXXXXXXXXXXolechat.com,XXXXXXX,active,admin,XXXXXXXXXXtton (60SX60S/132X100)
+1455,initial,swatch,1.0,2011,455,XXXXXXXXXXXXolechat.com,XXXXXXX,active,admin,XXXXXXXXXXcled Polyester
+1714,initial,swatch,1.0,2112,416,XXXXXXXhinton@XXXXXsper.co.uk,XXXXXXXHinton,active,admin,XXXXXXXXXXTENCEL Lyocell Elastane
+1721,initial,swatch,1.0,2112,436,XXXXXXXa@XXXXXco.co.uk,XXXXXXX de Lange,active,admin,XXXXXXXXXXTENCEL Lyocell Elastane
+1271,delivered,sample,45.0,1145,341,XXXXXXXlin@XXXXXr.com,XXXXXXXin Rutz,active,product_user,XXXXXXXXXXnic Silk
+1270,delivered,sample,45.0,1145,341,XXXXXXXlin@XXXXXr.com,XXXXXXXin Rutz,active,product_user,XXXXXXXXXXnic Silk
+1651,initial,swatch,1.0,1145,497,XXXXXXXmontero@XXXXXmontero.com,XXXXXXXMontero,active,admin,XXXXXXXXXXnic Silk
+1720,available,sample,5.0,2231,448,XXXXXXXoketevan@XXXXXok.com,XXXXXXXegrelishvili,active,admin,XXXXXXXXXXemp
+1859,delivered,swatch,1.0,2231,534,XXXXXXXXXXXXriz.com,XXXXXXX Carpaij,active,admin,XXXXXXXXXXemp
+1331,initial,sample,3.0,1178,289,XXXXXXXndra.emanuel@XXXXX.com,XXXXXXXdra Emanuel,active,admin,XXXXXXXXXXuard Upcycled Silk (76007SP)
+1058,delivered,swatch,1.0,1178,36,XXXXXXXa@XXXXXr.com,XXXXXXX Villas,active,admin,XXXXXXXXXXuard Upcycled Silk (76007SP)
+1236,delivered,swatch,2.0,1178,360,XXXXXXXgergo97@XXXXX.com,XXXXXXX RÃ¡cz,active,admin,XXXXXXXXXXuard Upcycled Silk (76007SP)
+1333,initial,sample,3.0,1177,289,XXXXXXXndra.emanuel@XXXXX.com,XXXXXXXdra Emanuel,active,admin,XXXXXXXXXXuard Upcycled Silk (76004DP)
+1335,initial,sample,3.0,1179,289,XXXXXXXndra.emanuel@XXXXX.com,XXXXXXXdra Emanuel,active,admin,XXXXXXXXXXped Jacquard Upcycled Silk (76009TP)
+1057,delivered,swatch,1.0,1179,36,XXXXXXXa@XXXXXr.com,XXXXXXX Villas,active,admin,XXXXXXXXXXped Jacquard Upcycled Silk (76009TP)
+1336,initial,sample,1.0,1404,289,XXXXXXXndra.emanuel@XXXXX.com,XXXXXXXdra Emanuel,active,admin,XXXXXXXXXXCAMOUF/MATTE/SUEDE MUSGO
+1857,initial,sample,1.0,1404,534,XXXXXXXXXXXXriz.com,XXXXXXX Carpaij,active,admin,XXXXXXXXXXCAMOUF/MATTE/SUEDE MUSGO
+1562,available,swatch,1.0,2232,207,XXXXXXXicich@XXXXXnd.com,XXXXXXX Milicich,active,admin,XXXXXXXXXXyocell Hemp
+1292,delivered,sample,412.0,1619,299,XXXXXXXproduction2020@XXXXX.com,XXXXXXXAdmin,active,admin,XXXXXXXXXX1HAC/58
+91,initial,swatch,1.0,554,106,XXXXXXXinezadesign@XXXXX.com,XXXXXXXIneza,active,admin,XXXXXXXXXXganic organza | embroidery
+1880,available,swatch,1.0,2301,551,XXXXXXXstailoring@XXXXXernet.com,XXXXXXXHughes,active,admin,XXXXXXXXXX Organic Cotton
+1282,delivered,swatch,1.0,937,374,XXXXXXXXXXXXobemore.com,XXXXXXX Fanny Raimondo,active,admin,XXXXXXXXXXtton (20X20/40X36)
+1858,initial,sample,2.0,1402,534,XXXXXXXXXXXXriz.com,XXXXXXX Carpaij,active,admin,XXXXXXXXXXSOLID/MATTE/LINEN NATURAL
+1860,delivered,swatch,1.0,2359,534,XXXXXXXXXXXXriz.com,XXXXXXX Carpaij,active,admin,XXXXXXXXXXsey TENCEL Micro Modal Elastane
+1861,delivered,swatch,1.0,2363,534,XXXXXXXXXXXXriz.com,XXXXXXX Carpaij,active,admin,XXXXXXXXXXsey TENCEL Lyocell Elastane
+1862,delivered,swatch,1.0,2357,534,XXXXXXXXXXXXriz.com,XXXXXXX Carpaij,active,admin,XXXXXXXXXXersey TENCEL Modal Hemp
+1863,delivered,swatch,1.0,2355,534,XXXXXXXXXXXXriz.com,XXXXXXX Carpaij,active,admin,XXXXXXXXXXpe TENCEL Micro Modal Wool
+301,delivered,swatch,1.0,843,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXashmere Recycled Cotton
+1233,delivered,swatch,2.0,843,360,XXXXXXXgergo97@XXXXX.com,XXXXXXX RÃ¡cz,active,admin,XXXXXXXXXXashmere Recycled Cotton
+297,delivered,swatch,1.0,847,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXcled Wool Cotton
+1230,delivered,swatch,2.0,847,360,XXXXXXXgergo97@XXXXX.com,XXXXXXX RÃ¡cz,active,admin,XXXXXXXXXXcled Wool Cotton
+1431,delivered,swatch,1.0,847,386,XXXXXXX@XXXXXd.de,XXXXXXX Gevers,active,admin,XXXXXXXXXXcled Wool Cotton
+1375,delivered,swatch,2.0,1209,412,XXXXXXXniaten@XXXXXom,XXXXXXXia hodge,active,admin,XXXXXXXXXXcycled Wool
+1525,initial,sample,1.0,745,427,XXXXXXXn.hayag@XXXXXoathletics.com,XXXXXXX Hayag,active,admin,XXXXXXXXXX® Classic Navy - natural wax coating
+298,delivered,swatch,1.0,846,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXsey Recycled Cashmere Recycled Cotton
+1673,delivered,swatch,1.0,1760,383,XXXXXXXserena@XXXXXe.com,XXXXXXXerena,active,admin,XXXXXXXXXXra Recycled Nylon
+1081,available,swatch,1.0,1760,328,XXXXXXXXXXXXfashion.com,XXXXXXX Guidetti,active,admin,XXXXXXXXXXra Recycled Nylon
+1670,delivered,swatch,1.0,2279,383,XXXXXXXserena@XXXXXe.com,XXXXXXXerena,active,admin,XXXXXXXXXX power II
+1725,initial,swatch,1.0,2247,349,XXXXXXXtallertextil@XXXXX.com,XXXXXXXola Benito,active,admin,XXXXXXXXXXcycled Nylon
+1672,delivered,swatch,1.0,1776,383,XXXXXXXserena@XXXXXe.com,XXXXXXXerena,active,admin,XXXXXXXXXXsey Recycled Polyester Nylon
+1083,available,swatch,1.0,1776,328,XXXXXXXXXXXXfashion.com,XXXXXXX Guidetti,active,admin,XXXXXXXXXXsey Recycled Polyester Nylon
+973,initial,swatch,1.0,1776,287,XXXXXXXnfu@XXXXXngming.com.hk,XXXXXXXPower,active,admin,XXXXXXXXXXsey Recycled Polyester Nylon
+1938,shipped,swatch,1.0,2077,574,XXXXXXXXXXXXg.com,XXXXXXX,active,admin,XXXXXXXXXXtton Jersey
+1812,delivered,swatch,1.0,1754,533,XXXXXXXXXXXXleonardsson.com,XXXXXXXLeonardsson,active,admin,XXXXXXXXXXch Recycled Polyester 2
+1807,delivered,swatch,1.0,1126,533,XXXXXXXXXXXXleonardsson.com,XXXXXXXLeonardsson,active,admin,XXXXXXXXXXe Recycled Polyester Recycled Wool
+1802,delivered,swatch,1.0,2320,533,XXXXXXXXXXXXleonardsson.com,XXXXXXXLeonardsson,active,admin,XXXXXXXXXX Tartan Recycled Cotton Recycled Polyester
+1803,delivered,swatch,1.0,866,533,XXXXXXXXXXXXleonardsson.com,XXXXXXXLeonardsson,active,admin,XXXXXXXXXXgid Indigo Suiting Corduroy
+1804,delivered,swatch,1.0,858,533,XXXXXXXXXXXXleonardsson.com,XXXXXXXLeonardsson,active,admin,XXXXXXXXXXphant High-low Rigid Corduroy
+1806,delivered,swatch,1.0,1125,533,XXXXXXXXXXXXleonardsson.com,XXXXXXXLeonardsson,active,admin,XXXXXXXXXXolyester
+1229,delivered,swatch,2.0,1125,360,XXXXXXXgergo97@XXXXX.com,XXXXXXX RÃ¡cz,active,admin,XXXXXXXXXXolyester
+1027,initial,swatch,1.0,674,264,XXXXXXX.knight@XXXXXrd.co.uk,XXXXXXXKnight,active,admin,XXXXXXXXXXfied Bamboo/Organic Cotton Light weight Single Jersey
+313,initial,swatch,1.0,743,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX® All Black - natural wax coating
+319,available,swatch,1.0,378,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXbrane Plain Polyester
+1451,delivered,swatch,1.0,378,114,XXXXXXXra.verlic@XXXXX.com,XXXXXXXa Verlic,active,admin,XXXXXXXXXXbrane Plain Polyester
+290,delivered,swatch,1.0,832,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXFleece African 100% Cotton
+320,delivered,swatch,1.0,656,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXcled Polyester
+281,delivered,swatch,1.0,652,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXcled Nylon PU
+1539,delivered,swatch,1.0,652,412,XXXXXXXniaten@XXXXXom,XXXXXXXia hodge,active,admin,XXXXXXXXXXcled Nylon PU
+287,delivered,swatch,1.0,822,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXtch Recycled Nylon Spandex
+288,delivered,swatch,1.0,823,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXtch Recycled Nylon Spandex
+289,delivered,swatch,1.0,825,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXtch Recycled Nylon Spandex
+318,delivered,swatch,1.0,154,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX 3 Layer Plain Nylon
+291,delivered,swatch,1.0,831,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXeece African 100% Cotton
+292,delivered,swatch,1.0,1303,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXhed Fleece
+655,delivered,swatch,1.0,1303,264,XXXXXXX.knight@XXXXXrd.co.uk,XXXXXXXKnight,active,admin,XXXXXXXXXXhed Fleece
+1259,delivered,swatch,2.0,1303,360,XXXXXXXgergo97@XXXXX.com,XXXXXXX RÃ¡cz,active,admin,XXXXXXXXXXhed Fleece
+294,delivered,swatch,1.0,833,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXsey
+1534,delivered,swatch,1.0,657,412,XXXXXXXniaten@XXXXXom,XXXXXXXia hodge,active,admin,XXXXXXXXXXcled Polyester Cotton
+1533,delayed,swatch,1.0,657,412,XXXXXXXniaten@XXXXXom,XXXXXXXia hodge,active,admin,XXXXXXXXXXcled Polyester Cotton
+1352,delivered,swatch,2.0,657,412,XXXXXXXniaten@XXXXXom,XXXXXXXia hodge,active,admin,XXXXXXXXXXcled Polyester Cotton
+1538,delivered,swatch,1.0,488,412,XXXXXXXniaten@XXXXXom,XXXXXXXia hodge,active,admin,XXXXXXXXXXnic Cotton Recycled Polyester
+1392,delivered,swatch,2.0,488,412,XXXXXXXniaten@XXXXXom,XXXXXXXia hodge,active,admin,XXXXXXXXXXnic Cotton Recycled Polyester
+325,delivered,swatch,1.0,155,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXr Plain Polyester Nylon
+1552,available,swatch,1.0,2127,207,XXXXXXXicich@XXXXXnd.com,XXXXXXX Milicich,active,admin,XXXXXXXXXXic Cotton
+1553,available,swatch,1.0,2131,207,XXXXXXXicich@XXXXXnd.com,XXXXXXX Milicich,active,admin,XXXXXXXXXX
+1554,available,swatch,1.0,2161,207,XXXXXXXicich@XXXXXnd.com,XXXXXXX Milicich,active,admin,XXXXXXXXXX
+1555,available,swatch,1.0,2162,207,XXXXXXXicich@XXXXXnd.com,XXXXXXX Milicich,active,admin,XXXXXXXXXX
+1556,available,swatch,1.0,2166,207,XXXXXXXicich@XXXXXnd.com,XXXXXXX Milicich,active,admin,XXXXXXXXXXic Cotton
+1557,available,swatch,1.0,2152,207,XXXXXXXicich@XXXXXnd.com,XXXXXXX Milicich,active,admin,XXXXXXXXXXane
+1558,available,swatch,1.0,1344,207,XXXXXXXicich@XXXXXnd.com,XXXXXXX Milicich,active,admin,XXXXXXXXXX
+926,available,swatch,1.0,1344,249,XXXXXXX662@XXXXXnt.rmit.edu.au,XXXXXXX,active,admin,XXXXXXXXXX
+1551,available,sample,5.0,1345,207,XXXXXXXicich@XXXXXnd.com,XXXXXXX Milicich,active,admin,XXXXXXXXXXsey Hemp
+1559,available,swatch,1.0,1341,207,XXXXXXXicich@XXXXXnd.com,XXXXXXX Milicich,active,admin,XXXXXXXXXX
+383,delivered,swatch,1.0,1218,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXN 65/35C
+593,initial,swatch,1.0,1218,187,XXXXXXX.studio@XXXXXok.com,XXXXXXX ,active,admin,XXXXXXXXXXN 65/35C
+614,delivered,swatch,1.0,1218,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXN 65/35C
+299,delivered,swatch,1.0,845,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXsey Recycled Wool Nylon
+375,delivered,swatch,2.0,1315,182,XXXXXXXne.g.leblanc@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXose
+376,delivered,swatch,1.0,1310,182,XXXXXXXne.g.leblanc@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXcled Polyester
+1374,delivered,swatch,2.0,1310,412,XXXXXXXniaten@XXXXXom,XXXXXXXia hodge,active,admin,XXXXXXXXXXcled Polyester
+582,delivered,swatch,1.0,1310,341,XXXXXXXlin@XXXXXr.com,XXXXXXXin Rutz,active,product_user,XXXXXXXXXXcled Polyester
+1002,delayed,swatch,1.0,1310,311,XXXXXXXct@XXXXXelier.com,XXXXXXXa Ponce de LeÃ³n,active,admin,XXXXXXXXXXcled Polyester
+377,delivered,swatch,1.0,1308,182,XXXXXXXne.g.leblanc@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXcled Polyester
+378,delivered,swatch,1.0,1314,182,XXXXXXXne.g.leblanc@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXiscose
+1281,delivered,swatch,1.0,1314,374,XXXXXXXXXXXXobemore.com,XXXXXXX Fanny Raimondo,active,admin,XXXXXXXXXXiscose
+380,delivered,swatch,1.0,1313,182,XXXXXXXne.g.leblanc@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXose Elastane
+1280,delivered,swatch,1.0,1313,374,XXXXXXXXXXXXobemore.com,XXXXXXX Fanny Raimondo,active,admin,XXXXXXXXXXose Elastane
+382,delivered,swatch,1.0,1214,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXX / BLACK
+418,delayed,swatch,1.0,1214,216,XXXXXXXXXXXXiaava.com,XXXXXXXa Ava ,active,admin,XXXXXXXXXX / BLACK
+367,initial,swatch,1.0,1214,187,XXXXXXX.studio@XXXXXok.com,XXXXXXX ,active,admin,XXXXXXXXXX / BLACK
+385,delivered,swatch,1.0,1217,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXN 65/35C
+615,delivered,swatch,1.0,1217,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXN 65/35C
+366,initial,swatch,1.0,1217,187,XXXXXXX.studio@XXXXXok.com,XXXXXXX ,active,admin,XXXXXXXXXXN 65/35C
+389,delivered,swatch,1.0,1220,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXX
+419,delayed,swatch,1.0,1220,216,XXXXXXXXXXXXiaava.com,XXXXXXXa Ava ,active,admin,XXXXXXXXXX
+592,initial,swatch,1.0,1220,187,XXXXXXX.studio@XXXXXok.com,XXXXXXX ,active,admin,XXXXXXXXXX
+1888,delivered,swatch,1.0,2529,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX Plain Recycled Cotton 230 gsm
+1674,delivered,swatch,1.0,1757,383,XXXXXXXserena@XXXXXe.com,XXXXXXXerena,active,admin,XXXXXXXXXXch Recycled Nylon
+1675,delivered,swatch,1.0,1743,383,XXXXXXXserena@XXXXXe.com,XXXXXXXerena,active,admin,XXXXXXXXXXgradable Recycled Polyester 3
+316,initial,swatch,1.0,308,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXRecycled Nylon Polyester
+323,available,swatch,1.0,496,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXcled Polyester PU
+72,initial,swatch,1.0,553,106,XXXXXXXinezadesign@XXXXX.com,XXXXXXXIneza,active,admin,XXXXXXXXXXganic organza embroidery
+668,delayed,swatch,1.0,1236,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXsey
+1432,delivered,swatch,1.0,908,386,XXXXXXX@XXXXXd.de,XXXXXXX Gevers,active,admin,XXXXXXXXXXinen blended dyed fabric
+1373,delivered,swatch,2.0,1972,412,XXXXXXXniaten@XXXXXom,XXXXXXXia hodge,active,admin,XXXXXXXXXXcled Polyester
+1382,delivered,swatch,2.0,159,412,XXXXXXXniaten@XXXXXom,XXXXXXXia hodge,active,admin,XXXXXXXXXX Rib Nylon Polyester
+1390,delivered,swatch,1.0,1307,412,XXXXXXXniaten@XXXXXom,XXXXXXXia hodge,active,admin,XXXXXXXXXXecycled Polyester
+283,delivered,swatch,1.0,610,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXecycled Polyester
+660,delivered,swatch,1.0,1309,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXcled Polyester
+1394,delivered,swatch,2.0,679,412,XXXXXXXniaten@XXXXXom,XXXXXXXia hodge,active,admin,XXXXXXXXXXic Cotton stretch Twill
+1286,delivered,swatch,1.0,679,374,XXXXXXXXXXXXobemore.com,XXXXXXX Fanny Raimondo,active,admin,XXXXXXXXXXic Cotton stretch Twill
+1492,delivered,swatch,1.0,679,433,XXXXXXXe_wells@XXXXXok.com,XXXXXXX,active,admin,XXXXXXXXXXic Cotton stretch Twill
+612,delivered,swatch,1.0,1332,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXK FREEPORT
+591,initial,swatch,1.0,1332,187,XXXXXXX.studio@XXXXXok.com,XXXXXXX ,active,admin,XXXXXXXXXXK FREEPORT
+617,delivered,swatch,1.0,1327,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXOL GREEN PAMPA
+595,initial,swatch,1.0,1327,187,XXXXXXX.studio@XXXXXok.com,XXXXXXX ,active,admin,XXXXXXXXXXOL GREEN PAMPA
+618,delivered,swatch,1.0,1328,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXOL BLACK FREEPORT
+596,initial,swatch,1.0,1328,187,XXXXXXX.studio@XXXXXok.com,XXXXXXX ,active,admin,XXXXXXXXXXOL BLACK FREEPORT
+619,delivered,swatch,1.0,1326,151,XXXXXXXica.tedeschi@XXXXXrldwide.com,XXXXXXXca Tedeschi,active,admin,XXXXXXXXXXK FREEPORT BIOCACTUS
+597,initial,swatch,1.0,1326,187,XXXXXXX.studio@XXXXXok.com,XXXXXXX ,active,admin,XXXXXXXXXXK FREEPORT BIOCACTUS
+647,delivered,swatch,1.0,921,264,XXXXXXX.knight@XXXXXrd.co.uk,XXXXXXXKnight,active,admin,XXXXXXXXXXfied Sustainable Hemp Denim
+648,delivered,swatch,1.0,897,264,XXXXXXX.knight@XXXXXrd.co.uk,XXXXXXXKnight,active,admin,XXXXXXXXXXe Hemp Indigo stretch dobby
+649,delivered,swatch,1.0,1137,264,XXXXXXX.knight@XXXXXrd.co.uk,XXXXXXXKnight,active,admin,XXXXXXXXXXnic Cotton Recycled Elastane
+650,delivered,swatch,1.0,1222,264,XXXXXXX.knight@XXXXXrd.co.uk,XXXXXXXKnight,active,admin,XXXXXXXXXXnen
+1479,initial,swatch,1.0,1222,455,XXXXXXXXXXXXolechat.com,XXXXXXX,active,admin,XXXXXXXXXXnen
+923,available,swatch,1.0,869,249,XXXXXXX662@XXXXXnt.rmit.edu.au,XXXXXXX,active,admin,XXXXXXXXXXgid Shirting Corduroy
+656,delayed,swatch,1.0,1263,264,XXXXXXX.knight@XXXXXrd.co.uk,XXXXXXXKnight,active,admin,XXXXXXXXXXe Organic Cotton
+1918,initial,swatch,1.0,2532,587,XXXXXXX@XXXXXdigital,XXXXXXXStafford,active,admin,XXXXXXXXXX Canvas Recycled Cotton 400 gsm
+1047,available,swatch,1.0,1339,36,XXXXXXXa@XXXXXr.com,XXXXXXX Villas,active,admin,XXXXXXXXXX
+1078,available,swatch,1.0,1339,328,XXXXXXXXXXXXfashion.com,XXXXXXX Guidetti,active,admin,XXXXXXXXXX
+1052,available,swatch,1.0,854,36,XXXXXXXa@XXXXXr.com,XXXXXXX Villas,active,admin,XXXXXXXXXXtin Light weight Fabric
+1075,available,swatch,1.0,1208,328,XXXXXXXXXXXXfashion.com,XXXXXXX Guidetti,active,admin,XXXXXXXXXXe Recycled Polyester Recycled Elastane
+1490,delivered,swatch,1.0,1208,433,XXXXXXXe_wells@XXXXXok.com,XXXXXXX,active,admin,XXXXXXXXXXe Recycled Polyester Recycled Elastane
+1084,available,swatch,1.0,1739,328,XXXXXXXXXXXXfashion.com,XXXXXXX Guidetti,active,admin,XXXXXXXXXXgradable Recycle Polyester 4
+1082,available,swatch,1.0,1762,328,XXXXXXXXXXXXfashion.com,XXXXXXX Guidetti,active,admin,XXXXXXXXXXch Recycled Polyester 5
+1077,available,swatch,1.0,1194,328,XXXXXXXXXXXXfashion.com,XXXXXXX Guidetti,active,admin,XXXXXXXXXXed Nylon Recycled Elastane
+1079,available,swatch,1.0,1338,328,XXXXXXXXXXXXfashion.com,XXXXXXX Guidetti,active,admin,XXXXXXXXXX
+1080,available,swatch,1.0,1756,328,XXXXXXXXXXXXfashion.com,XXXXXXX Guidetti,active,admin,XXXXXXXXXXch Recycled Polyester 4
+652,delivered,swatch,1.0,737,264,XXXXXXX.knight@XXXXXrd.co.uk,XXXXXXXKnight,active,admin,XXXXXXXXXX® Natural White - natural wax coating
+932,available,swatch,1.0,737,249,XXXXXXX662@XXXXXnt.rmit.edu.au,XXXXXXX,active,admin,XXXXXXXXXX® Natural White - natural wax coating
+1440,delivered,swatch,1.0,737,114,XXXXXXXra.verlic@XXXXX.com,XXXXXXXa Verlic,active,admin,XXXXXXXXXX® Natural White - natural wax coating
+654,delivered,swatch,1.0,1143,264,XXXXXXX.knight@XXXXXrd.co.uk,XXXXXXXKnight,active,admin,XXXXXXXXXXe Organic Cotton
+1228,delivered,swatch,2.0,1143,360,XXXXXXXgergo97@XXXXX.com,XXXXXXX RÃ¡cz,active,admin,XXXXXXXXXXe Organic Cotton
+644,delivered,swatch,1.0,885,264,XXXXXXX.knight@XXXXXrd.co.uk,XXXXXXXKnight,active,admin,XXXXXXXXXXas Hemp Organic Cotton
+645,delivered,swatch,1.0,926,264,XXXXXXX.knight@XXXXXrd.co.uk,XXXXXXXKnight,active,admin,XXXXXXXXXXfied Tencel Rigid Denim
+646,delivered,swatch,1.0,925,264,XXXXXXX.knight@XXXXXrd.co.uk,XXXXXXXKnight,active,admin,XXXXXXXXXXfied Linen Rigid Denim
+1434,delivered,swatch,1.0,925,386,XXXXXXX@XXXXXd.de,XXXXXXX Gevers,active,admin,XXXXXXXXXXfied Linen Rigid Denim
+1217,delivered,swatch,2.0,1191,360,XXXXXXXgergo97@XXXXX.com,XXXXXXX RÃ¡cz,active,admin,XXXXXXXXXXh Organic Cotton
+1249,delivered,swatch,2.0,1198,360,XXXXXXXgergo97@XXXXX.com,XXXXXXX RÃ¡cz,active,admin,XXXXXXXXXXbio II
+1279,available,swatch,2.0,633,381,XXXXXXXXXXXXcom,XXXXXXX,active,admin,XXXXXXXXXXcled Polyester
+804,delivered,swatch,1.0,490,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXnic Cotton 1
+63,initial,swatch,1.0,490,106,XXXXXXXinezadesign@XXXXX.com,XXXXXXXIneza,active,admin,XXXXXXXXXXnic Cotton 1
+1006,available,swatch,1.0,1545,311,XXXXXXXct@XXXXXelier.com,XXXXXXXa Ponce de LeÃ³n,active,admin,XXXXXXXXXXsey Polyester 4
+869,delivered,swatch,1.0,1492,307,XXXXXXXia@XXXXXano.net,XXXXXXXa Estrada,active,admin,XXXXXXXXXXPlain Peace Silk
+867,delivered,swatch,1.0,1486,307,XXXXXXXia@XXXXXano.net,XXXXXXXa Estrada,active,admin,XXXXXXXXXXPlain Organic Cotton
+1462,initial,swatch,1.0,1486,455,XXXXXXXXXXXXolechat.com,XXXXXXX,active,admin,XXXXXXXXXXPlain Organic Cotton
+872,delivered,swatch,1.0,1491,307,XXXXXXXia@XXXXXano.net,XXXXXXXa Estrada,active,admin,XXXXXXXXXXPlain Peace Silk
+875,delivered,swatch,1.0,1497,307,XXXXXXXia@XXXXXano.net,XXXXXXXa Estrada,active,admin,XXXXXXXXXXPlain Peace Silk
+870,delivered,swatch,1.0,1489,307,XXXXXXXia@XXXXXano.net,XXXXXXXa Estrada,active,admin,XXXXXXXXXXSlub Peace Silk
+874,delivered,swatch,1.0,1495,307,XXXXXXXia@XXXXXano.net,XXXXXXXa Estrada,active,admin,XXXXXXXXXXPlain Peace Silk
+876,delivered,swatch,1.0,1481,307,XXXXXXXia@XXXXXano.net,XXXXXXXa Estrada,active,admin,XXXXXXXXXXPlain Organic Cotton
+873,delivered,swatch,1.0,1496,307,XXXXXXXia@XXXXXano.net,XXXXXXXa Estrada,active,admin,XXXXXXXXXXSlub Peace Silk
+871,delivered,swatch,1.0,1490,307,XXXXXXXia@XXXXXano.net,XXXXXXXa Estrada,active,admin,XXXXXXXXXXPlain Peace Silk
+865,delivered,swatch,1.0,1504,307,XXXXXXXia@XXXXXano.net,XXXXXXXa Estrada,active,admin,XXXXXXXXXXPlain Organic Cotton
+887,delivered,swatch,1.0,1232,307,XXXXXXXia@XXXXXano.net,XXXXXXXa Estrada,active,admin,XXXXXXXXXXnen Taupe
+882,delivered,swatch,1.0,909,307,XXXXXXXia@XXXXXano.net,XXXXXXXa Estrada,active,admin,XXXXXXXXXXavy Twill with Digital Printing
+1474,initial,swatch,1.0,909,455,XXXXXXXXXXXXolechat.com,XXXXXXX,active,admin,XXXXXXXXXXavy Twill with Digital Printing
+888,delivered,swatch,1.0,1240,307,XXXXXXXia@XXXXXano.net,XXXXXXXa Estrada,active,admin,XXXXXXXXXXnen Chartreuse
+877,delivered,swatch,1.0,1482,307,XXXXXXXia@XXXXXano.net,XXXXXXXa Estrada,active,admin,XXXXXXXXXXPlain Organic Cotton
+1463,initial,swatch,1.0,1482,455,XXXXXXXXXXXXolechat.com,XXXXXXX,active,admin,XXXXXXXXXXPlain Organic Cotton
+886,delivered,swatch,1.0,1238,307,XXXXXXXia@XXXXXano.net,XXXXXXXa Estrada,active,admin,XXXXXXXXXXnen Sage
+1004,available,swatch,1.0,1142,311,XXXXXXXct@XXXXXelier.com,XXXXXXXa Ponce de LeÃ³n,active,admin,XXXXXXXXXXRecycled Polyester Nylon
+988,available,swatch,1.0,884,311,XXXXXXXct@XXXXXelier.com,XXXXXXXa Ponce de LeÃ³n,active,admin,XXXXXXXXXXuperfine Indigo Overdyed Corduroy
+992,available,swatch,1.0,673,311,XXXXXXXct@XXXXXelier.com,XXXXXXXa Ponce de LeÃ³n,active,admin,XXXXXXXXXXtretch Bio-based Nylon
+991,available,swatch,1.0,1549,311,XXXXXXXct@XXXXXelier.com,XXXXXXXa Ponce de LeÃ³n,active,admin,XXXXXXXXXXStretch Polyester 5
+990,available,swatch,1.0,1535,311,XXXXXXXct@XXXXXelier.com,XXXXXXXa Ponce de LeÃ³n,active,admin,XXXXXXXXXXEco Stretch Polyester 2
+989,available,swatch,1.0,861,311,XXXXXXXct@XXXXXelier.com,XXXXXXXa Ponce de LeÃ³n,active,admin,XXXXXXXXXXphant High-low Rigid Corduroy
+931,delayed,swatch,1.0,740,249,XXXXXXX662@XXXXXnt.rmit.edu.au,XXXXXXX,active,admin,XXXXXXXXXX® Limestone - natural wax coating
+930,available,swatch,1.0,502,249,XXXXXXX662@XXXXXnt.rmit.edu.au,XXXXXXX,active,admin,XXXXXXXXXXtretch Dobby Recycled Nylon
+927,available,swatch,1.0,683,249,XXXXXXX662@XXXXXnt.rmit.edu.au,XXXXXXX,active,admin,XXXXXXXXXXd Linen Suiting
+928,available,swatch,1.0,1335,249,XXXXXXX662@XXXXXnt.rmit.edu.au,XXXXXXX,active,admin,XXXXXXXXXX Hemp
+1478,initial,swatch,1.0,1335,455,XXXXXXXXXXXXolechat.com,XXXXXXX,active,admin,XXXXXXXXXX Hemp
+1248,delivered,swatch,2.0,1201,360,XXXXXXXgergo97@XXXXX.com,XXXXXXX RÃ¡cz,active,admin,XXXXXXXXXX cosmetic I
+88,initial,swatch,1.0,551,106,XXXXXXXinezadesign@XXXXX.com,XXXXXXXIneza,active,admin,XXXXXXXXXXganic organza | embroidery
+1378,delivered,swatch,2.0,1225,412,XXXXXXXniaten@XXXXXom,XXXXXXXia hodge,active,admin,XXXXXXXXXXas
+1287,delivered,swatch,1.0,681,374,XXXXXXXXXXXXobemore.com,XXXXXXX Fanny Raimondo,active,admin,XXXXXXXXXXic Cotton stretch Dobby
+1220,delivered,swatch,2.0,681,360,XXXXXXXgergo97@XXXXX.com,XXXXXXX RÃ¡cz,active,admin,XXXXXXXXXXic Cotton stretch Dobby
+1498,delivered,swatch,1.0,1503,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXXPlain Organic Cotton
+1424,delivered,swatch,1.0,1503,386,XXXXXXX@XXXXXd.de,XXXXXXX Gevers,active,admin,XXXXXXXXXXPlain Organic Cotton
+73,initial,swatch,1.0,545,106,XXXXXXXinezadesign@XXXXX.com,XXXXXXXIneza,active,admin,XXXXXXXXXXipure lace
+1062,delivered,swatch,1.0,1182,36,XXXXXXXa@XXXXXr.com,XXXXXXX Villas,active,admin,XXXXXXXXXXcquard Upcycled Silk (76015TF)
+1061,delivered,swatch,1.0,1183,36,XXXXXXXa@XXXXXr.com,XXXXXXX Villas,active,admin,XXXXXXXXXXacquard Upcycled Silk (76025TF)
+1059,delivered,swatch,1.0,1173,36,XXXXXXXa@XXXXXr.com,XXXXXXX Villas,active,admin,XXXXXXXXXXuard Upcycled Silk (76000DP)
+1239,delivered,swatch,2.0,1173,360,XXXXXXXgergo97@XXXXX.com,XXXXXXX RÃ¡cz,active,admin,XXXXXXXXXXuard Upcycled Silk (76000DP)
+1048,delivered,swatch,1.0,1202,36,XXXXXXXa@XXXXXr.com,XXXXXXX Villas,active,admin,XXXXXXXXXXsey Recycled Cotton
+1219,delivered,swatch,2.0,1202,360,XXXXXXXgergo97@XXXXX.com,XXXXXXX RÃ¡cz,active,admin,XXXXXXXXXXsey Recycled Cotton
+1050,delivered,swatch,1.0,1193,36,XXXXXXXa@XXXXXr.com,XXXXXXX Villas,active,admin,XXXXXXXXXXOrganic Cotton Recycled Nylon
+83,initial,swatch,1.0,550,106,XXXXXXXinezadesign@XXXXX.com,XXXXXXXIneza,active,admin,XXXXXXXXXXganic organza | embroidery
+1377,delivered,swatch,2.0,309,412,XXXXXXXniaten@XXXXXom,XXXXXXXia hodge,active,admin,XXXXXXXXXXRib Recycled Nylon
+1316,available,swatch,1.0,1340,381,XXXXXXXXXXXXcom,XXXXXXX,active,admin,XXXXXXXXXX
+1473,initial,swatch,1.0,1340,455,XXXXXXXXXXXXolechat.com,XXXXXXX,active,admin,XXXXXXXXXX
+1329,delivered,swatch,1.0,1767,364,XXXXXXXst@XXXXXac.uk,XXXXXXX,active,admin,XXXXXXXXXXtch Recyceld Polyester Recycled Elastane 5
+1288,delivered,swatch,1.0,543,374,XXXXXXXXXXXXobemore.com,XXXXXXX Fanny Raimondo,active,admin,XXXXXXXXXXganic kattun embroidery
+89,initial,swatch,1.0,543,106,XXXXXXXinezadesign@XXXXX.com,XXXXXXXIneza,active,admin,XXXXXXXXXXganic kattun embroidery
+1285,delivered,swatch,1.0,379,374,XXXXXXXXXXXXobemore.com,XXXXXXX Fanny Raimondo,active,admin,XXXXXXXXXXrane Plain Polyester Elastine
+1238,delivered,swatch,2.0,1796,360,XXXXXXXgergo97@XXXXX.com,XXXXXXX RÃ¡cz,active,admin,XXXXXXXXXX Hemp
+1232,delivered,swatch,2.0,1124,360,XXXXXXXgergo97@XXXXX.com,XXXXXXX RÃ¡cz,active,admin,XXXXXXXXXXRecycled Polyester Recycled Cotton
+1458,initial,swatch,1.0,2023,455,XXXXXXXXXXXXolechat.com,XXXXXXX,active,admin,XXXXXXXXXXcled Polyester
+1218,delivered,swatch,2.0,1192,360,XXXXXXXgergo97@XXXXX.com,XXXXXXX RÃ¡cz,active,admin,XXXXXXXXXXc Cotton
+1427,delivered,swatch,1.0,1192,386,XXXXXXX@XXXXXd.de,XXXXXXX Gevers,active,admin,XXXXXXXXXXc Cotton
+1216,delivered,swatch,2.0,1138,360,XXXXXXXgergo97@XXXXX.com,XXXXXXX RÃ¡cz,active,admin,XXXXXXXXXXsey Organic Cotton
+1224,delivered,swatch,2.0,1139,360,XXXXXXXgergo97@XXXXX.com,XXXXXXX RÃ¡cz,active,admin,XXXXXXXXXXRecycled Cotton Recycled Polyester
+1459,initial,swatch,1.0,625,455,XXXXXXXXXXXXolechat.com,XXXXXXX,active,admin,XXXXXXXXXXPlain Recycled Nylon
+1460,initial,swatch,1.0,626,455,XXXXXXXXXXXXolechat.com,XXXXXXX,active,admin,XXXXXXXXXXPlain Recycled Nylon
+1215,delivered,swatch,1.0,1742,360,XXXXXXXgergo97@XXXXX.com,XXXXXXX RÃ¡cz,active,admin,XXXXXXXXXXled Polyester 2
+1227,delivered,swatch,2.0,1410,360,XXXXXXXgergo97@XXXXX.com,XXXXXXX RÃ¡cz,active,admin,XXXXXXXXXXsey Recycled Wool Recycled Nylon
+1225,delivered,swatch,2.0,1129,360,XXXXXXXgergo97@XXXXX.com,XXXXXXX RÃ¡cz,active,admin,XXXXXXXXXXycled Cotton Recycled Polyester
+1254,delivered,swatch,2.0,1438,360,XXXXXXXgergo97@XXXXX.com,XXXXXXX RÃ¡cz,active,admin,XXXXXXXXXXTENCEL 4
+1256,delivered,swatch,2.0,1443,360,XXXXXXXgergo97@XXXXX.com,XXXXXXX RÃ¡cz,active,admin,XXXXXXXXXXPolyester TENCEL 2
+1255,delivered,swatch,2.0,1439,360,XXXXXXXgergo97@XXXXX.com,XXXXXXX RÃ¡cz,active,admin,XXXXXXXXXXTENCEL 5
+1253,delivered,swatch,2.0,1435,360,XXXXXXXgergo97@XXXXX.com,XXXXXXX RÃ¡cz,active,admin,XXXXXXXXXXsey Polyester TENCEL 2
+1243,delivered,swatch,2.0,1128,360,XXXXXXXgergo97@XXXXX.com,XXXXXXX RÃ¡cz,active,admin,XXXXXXXXXXRecycled Cotton Recycled Polyester
+1244,delivered,swatch,2.0,1131,360,XXXXXXXgergo97@XXXXX.com,XXXXXXX RÃ¡cz,active,admin,XXXXXXXXXXsey Recycled Cotton Recycled Polyester
+1325,delivered,swatch,1.0,670,364,XXXXXXXst@XXXXXac.uk,XXXXXXX,active,admin,XXXXXXXXXXtretch Bio-based Nylon
+586,delivered,swatch,1.0,730,341,XXXXXXXlin@XXXXXr.com,XXXXXXXin Rutz,active,product_user,XXXXXXXXXXy 130 ORG: Waterproof Organic Cotton 130 gsm
+1355,delivered,swatch,2.0,2021,412,XXXXXXXniaten@XXXXXom,XXXXXXXia hodge,active,admin,XXXXXXXXXXnic Cotton Recycled Polyester
+64,initial,swatch,1.0,539,106,XXXXXXXinezadesign@XXXXX.com,XXXXXXXIneza,active,admin,XXXXXXXXXXganic tulle embroidery
+65,initial,swatch,1.0,555,106,XXXXXXXinezadesign@XXXXX.com,XXXXXXXIneza,active,admin,XXXXXXXXXXganic organza embroidery
+70,initial,swatch,1.0,567,106,XXXXXXXinezadesign@XXXXX.com,XXXXXXXIneza,active,admin,XXXXXXXXXXze Organic Cotton
+71,initial,swatch,1.0,566,106,XXXXXXXinezadesign@XXXXX.com,XXXXXXXIneza,active,admin,XXXXXXXXXXOrganic Cotton
+76,initial,swatch,1.0,557,106,XXXXXXXinezadesign@XXXXX.com,XXXXXXXIneza,active,admin,XXXXXXXXXXStripes TENCEL
+77,initial,swatch,1.0,562,106,XXXXXXXinezadesign@XXXXX.com,XXXXXXXIneza,active,admin,XXXXXXXXXXby Stripes TENCEL
+79,initial,swatch,1.0,559,106,XXXXXXXinezadesign@XXXXX.com,XXXXXXXIneza,active,admin,XXXXXXXXXXe Silk
+80,initial,swatch,1.0,560,106,XXXXXXXinezadesign@XXXXX.com,XXXXXXXIneza,active,admin,XXXXXXXXXXe Abstract TENCEL Peace Silk
+81,initial,swatch,1.0,537,106,XXXXXXXinezadesign@XXXXX.com,XXXXXXXIneza,active,admin,XXXXXXXXXXipure lace kbA
+972,initial,swatch,1.0,1540,287,XXXXXXXnfu@XXXXXngming.com.hk,XXXXXXXPower,active,admin,XXXXXXXXXXStretch Polyester 6
+82,initial,swatch,1.0,549,106,XXXXXXXinezadesign@XXXXX.com,XXXXXXXIneza,active,admin,XXXXXXXXXXganic organza | embroidery
+84,initial,swatch,1.0,552,106,XXXXXXXinezadesign@XXXXX.com,XXXXXXXIneza,active,admin,XXXXXXXXXXganic kattun embroidery
+86,initial,swatch,1.0,546,106,XXXXXXXinezadesign@XXXXX.com,XXXXXXXIneza,active,admin,XXXXXXXXXXipure lace
+87,initial,swatch,1.0,540,106,XXXXXXXinezadesign@XXXXX.com,XXXXXXXIneza,active,admin,XXXXXXXXXXganic tulle embroidery
+1404,initial,swatch,1.0,49,188,XXXXXXXn@XXXXXnobjective.co,XXXXXXX Lejeune,active,admin,XXXXXXXXXXRecycled Polyester
+1429,delivered,swatch,1.0,1205,386,XXXXXXX@XXXXXd.de,XXXXXXX Gevers,active,admin,XXXXXXXXXXnic Cotton
+1430,delivered,swatch,1.0,1127,386,XXXXXXX@XXXXXd.de,XXXXXXX Gevers,active,admin,XXXXXXXXXXool Cotton
+1464,initial,swatch,1.0,1505,455,XXXXXXXXXXXXolechat.com,XXXXXXX,active,admin,XXXXXXXXXXPlain Organic Cotton
+1465,initial,swatch,1.0,1485,455,XXXXXXXXXXXXolechat.com,XXXXXXX,active,admin,XXXXXXXXXXSlub Organic Cotton
+1466,initial,swatch,1.0,906,455,XXXXXXXXXXXXolechat.com,XXXXXXX,active,admin,XXXXXXXXXXrting-Natural
+1467,initial,swatch,1.0,2004,455,XXXXXXXXXXXXolechat.com,XXXXXXX,active,admin,XXXXXXXXXXylon
+1468,initial,swatch,1.0,1484,455,XXXXXXXXXXXXolechat.com,XXXXXXX,active,admin,XXXXXXXXXXCanvas Organic Cotton
+1470,initial,swatch,1.0,1522,455,XXXXXXXXXXXXolechat.com,XXXXXXX,active,admin,XXXXXXXXXXcled Cotton Recycled Polyester
+1471,initial,swatch,1.0,1514,455,XXXXXXXXXXXXolechat.com,XXXXXXX,active,admin,XXXXXXXXXXecycled Cotton Viscose
+1422,delivered,swatch,1.0,1514,386,XXXXXXX@XXXXXd.de,XXXXXXX Gevers,active,admin,XXXXXXXXXXecycled Cotton Viscose
+1496,delivered,swatch,1.0,1798,168,XXXXXXXhaylovast@XXXXX.com,XXXXXXX,active,admin,XXXXXXXXXX Hemp
+1482,delivered,swatch,1.0,1980,433,XXXXXXXe_wells@XXXXXok.com,XXXXXXX,active,admin,XXXXXXXXXXed Polyester Elastane
+1484,delivered,swatch,1.0,1942,433,XXXXXXXe_wells@XXXXXok.com,XXXXXXX,active,admin,XXXXXXXXXXn
+1485,delivered,swatch,1.0,2018,433,XXXXXXXe_wells@XXXXXok.com,XXXXXXX,active,admin,XXXXXXXXXXcled Polyester
+1489,delivered,swatch,1.0,1424,433,XXXXXXXe_wells@XXXXXok.com,XXXXXXX,active,admin,XXXXXXXXXXon Recycled Polyester
+1362,delivered,swatch,2.0,1424,412,XXXXXXXniaten@XXXXXom,XXXXXXXia hodge,active,admin,XXXXXXXXXXon Recycled Polyester
+1449,delivered,swatch,1.0,1424,114,XXXXXXXra.verlic@XXXXX.com,XXXXXXXa Verlic,active,admin,XXXXXXXXXXon Recycled Polyester
+1372,delivered,swatch,2.0,1912,412,XXXXXXXniaten@XXXXXom,XXXXXXXia hodge,active,admin,XXXXXXXXXXcled Polyester
